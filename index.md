@@ -1,4 +1,4 @@
- # Hello! 
+# Hello! 
 
 My name is **Denise Weber** and I am a new Front-end Developer working remotely out of Green, Ohio. I'm happy you're here! 
 
