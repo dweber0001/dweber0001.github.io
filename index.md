@@ -1,10 +1,10 @@
-## Welcome to my site
+ # Hello! 
 
-I'm happy you're here! Please look around and I would love to hear from you.
+My name is **Denise Weber** and I am a new Front-end Developer working remotely out of Green, Ohio. I'm happy you're here! 
 
 ## About Me
 <p float="left">
-<img src="/images/me.png" width=150" height="170"> 
+<img src="/images/me.png" width="150" height="170"> 
 <img src="images/sunset.png" width="350" height="170" >
 </p>
 
