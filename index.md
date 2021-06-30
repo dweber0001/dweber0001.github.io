@@ -4,13 +4,13 @@ I'm happy you're here! Please look around and I would love to hear from you.
 
 ## About Me
 <p float="left">
-<img src="/images/me.png" width="150" height="170"> 
-<img src="images/sunset.png" width="350" height="170">
+<img src="/images/me.png" width=150" height="150"> 
+<img src="images/sunset.png" width="300" >
 </p>
 
 ```After many years spent working in medical records; I am changing careers and transitioning to web development after going back to school! I am passionate about technology and life-long learning, web development, design, photography, my faith, family, friends and sunsets!```
 
-
+[GitHub] (http://github.com/dweber0001)      
 # Header 1
 ## Header 2
 ### Header 3
@@ -24,7 +24,10 @@ I'm happy you're here! Please look around and I would love to hear from you.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+                               
+                                        
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
