@@ -3,14 +3,11 @@
 I'm happy you're here! Please look around and I would love to hear from you.
 
 ## About Me
-![Denise](/images/me.png)
-Format: ![Alt Text](url)
 
+<img src="/images/me.png" width="260" height="300">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```After many years spent working in medical records; I am changing careers and transitioning to web development after going back to school! I am passionate about technology and life-long learning, web development, design, photography, my faith, family, friends and sunsets!```
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
