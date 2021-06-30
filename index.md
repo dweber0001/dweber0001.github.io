@@ -4,7 +4,7 @@ I'm happy you're here! Please look around and I would love to hear from you.
 
 ## About Me
 
-<img src="/images/me.png" width="240" height="280"> <img src="images/sunset.png" width="430" height="280">
+<img src="/images/me.png" width="220" height="260"> <img src="images/sunset.png" width="400" height="260">
 
 ```After many years spent working in medical records; I am changing careers and transitioning to web development after going back to school! I am passionate about technology and life-long learning, web development, design, photography, my faith, family, friends and sunsets!```
 
