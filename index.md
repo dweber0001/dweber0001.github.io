@@ -35,8 +35,8 @@ After many years spent working in medical records; I am changing careers and tra
 <br>
 **MiniBlog and Matching Game Screenshots:**
 <p float="left">
- <img src="/images/miniblogapp.png" width="250" height="300">
- <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="300">
+ <img src="/images/miniblogapp.png" width="230" height="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="250">
 </p> 
 
 
