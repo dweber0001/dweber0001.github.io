@@ -34,12 +34,7 @@ After many years spent working in medical records; I am changing careers and tra
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="230"> 
  </p>
  <br><br>
-<form>      
-  <input name="name" type="text" class="feedback-input" placeholder="Name" />   
-  <input name="email" type="text" class="feedback-input" placeholder="Email" />
-  <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
-  <input type="submit" value="SUBMIT"/>
-</form>
+
 
 # Header 1
 ## Header 2
