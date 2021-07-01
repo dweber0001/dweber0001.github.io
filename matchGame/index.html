@@ -1,1 +1,68 @@
 
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        #div1 {
+          font-size:24px;
+        }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Picture Matching Game</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/jpg" href="img/hello.jpg">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"/>
+    <style>
+        .button {
+          padding: 15px 15px;
+          font-size: 20px;
+          font-weight:bold;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: rgb(61, 65, 71);
+          background-color: #81afb3;
+          border: none;
+          border-radius: 12px;
+          box-shadow: 0 7px rgb(136, 135, 135);
+        }
+        
+        .button:hover {background-color: #12b0c5}
+        
+        .button:active {
+          background-color: #3f98b3;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+        </style>
+
+</head>
+<body>
+  <div id=top><br>
+    <h1>Picture Matching Game</h1>  
+   <h2>Your Time: <span id="minutes"></span>:<span id="seconds"></span></h2>
+  <br></div> 
+
+  
+         <script>
+            function refreshPage(){
+                window.location.reload();
+            } 
+            </script>
+        
+        <div id="game"></div>
+        <br>
+
+        
+        <button class="button" type="submit"  onClick="refreshPage()">Play Again?</button>
+
+     <script src="scripts/script.babel.js"></script>
+
+     
+</body>
+</html>
+

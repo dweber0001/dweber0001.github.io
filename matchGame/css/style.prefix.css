@@ -1,0 +1,116 @@
+*,
+*::before,
+*::after {
+ 
+          box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background: #f6fdff;
+}
+
+
+.grid {
+  
+
+  max-width:  790px;
+
+  margin: 0 auto;
+  display: flex; 
+  column-gap: 1px;
+  row-gap: 1px;
+  
+  
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: space-normal;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+.grid>*{
+    padding: 0.3px;
+   border: snow, solid, 1px;
+   border-radius: 0.3px;
+}
+
+
+.card {
+  position: relative;
+  -webkit-transition: all .4s linear;
+  -o-transition: all .4s linear;
+  transition: all .4s linear;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  margin:0px;
+}
+
+.card,
+.back,
+.front {
+    height: 105px;
+    width: 130px;
+}
+
+.back,
+.front {
+  position: absolute;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.front {
+    background: url('../img/questionmark.png') no-repeat center center / contain;
+}
+
+.back {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.selected {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+
+.match .front {
+    background: #f3fffc !important; 
+}
+
+/**** IF SCREEN SIZE IS NO LARGER THAN 640px ****/
+@media screen and (max-width: 640px) {
+   
+    .card 
+    .back,
+    .front{
+    
+		width:60%;
+	
+	}
+	
+
+}
+
+/**** IF SCREEN SIZE IS NO LARGER THAN 320px ****/
+
+	
+@media screen and (max-width: 320px) {
+  
+    .card
+    .back,
+    .front{
+         
+        width: 55%
+    }
+
+}
+
+   
+
