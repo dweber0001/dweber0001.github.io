@@ -10,15 +10,16 @@ My name is **Denise Weber** and I am a new Front-end Developer working remotely 
 
 ```After many years spent working in medical records; I am changing careers and transitioning to web development after going back to school for software development. I have spent the last 3 years obtaining my AS degree and then furthering my knowledge with additional online learning. I love developing websites and applications and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. I am looking for an entry level position with a company where I can contribute, learn and grow long-term.  My other interests are design, travel, photography, my faith, family, friends...and sunsets!```
 <br>
-### My Links
+## My Links
 [Resume](/images/Resume.png)
 
 [GitHub](http://github.com/dweber0001)  
 
 [DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net)
+**This is a mock responsive doctor's office website I created using .NET framework and webforms. I created an accompanying SQL doctor's office database.**
 
-[MiniApp](http://dweber-microblog-app.herokuapp.com)
-
+[MiniBlogApp](http://dweber-microblog-app.herokuapp.com)
+**This miniblog utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. I did not learn anything about deployment in college, so this course was a great extension to my learning. I made some changes to make it a little more my own.**
 
 # Header 1
 ## Header 2
