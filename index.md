@@ -28,14 +28,14 @@ After many years spent working in medical records; I am changing careers and tra
   <img src="/images/contact.png" width="140" height="200"> 
   </p>
 
-**[MiniBlogApp](http://dweber-microblog-app.herokuapp.com)&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._
+**[MiniBlogApp](http://dweber-microblog-app.herokuapp.com)&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
 
-**[MatchingGame](https://dweber0001.github.io/matchGame)&nbsp; ⬅️** _Link to picture matching game I created using JavaScript, HTML and CSS_ &nbsp; **Matching Game Screenshot:**
-⬅️
-<p float="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="230"> 
- </p>
- <br>
+**[MatchingGame](https://dweber0001.github.io/matchGame)&nbsp; ⬅️** _Link to picture matching game I created using JavaScript, HTML and CSS_ &nbsp; **MiniBlog and Matching Game Screenshots:**
+<p float="left">
+ <img src="/images/miniblogapp.png" width="250" height="300">
+ <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="300">
+</p> 
+
 
 ## CONTACT ME:  
 **[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20Portfolio) &nbsp; ⬅️ _Email me!_**  
