@@ -19,7 +19,8 @@ After many years spent working in medical records; I am changing careers and tra
 
 **[GitHub](http://github.com/dweber0001) &nbsp;&nbsp; ⬅️** _Link to my respository._
 
-**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net)&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._  **Doctors Office Screenshots:**
+**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net)&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._  <br>
+**Doctors Office Screenshots:**
 
 <p float="center">
   <img src="/images/home.png" width="140" height="200"> 
@@ -30,7 +31,9 @@ After many years spent working in medical records; I am changing careers and tra
 
 **[MiniBlogApp](http://dweber-microblog-app.herokuapp.com)&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
 
-**[MatchingGame](https://dweber0001.github.io/matchGame)&nbsp; ⬅️** _Link to picture matching game I created using JavaScript, HTML and CSS_ &nbsp; **MiniBlog and Matching Game Screenshots:**
+**[MatchingGame](https://dweber0001.github.io/matchGame)&nbsp; ⬅️** _Link to picture matching game I created using JavaScript, HTML and CSS_ 
+<br>
+**MiniBlog and Matching Game Screenshots:**
 <p float="left">
  <img src="/images/miniblogapp.png" width="250" height="300">
  <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="300">
