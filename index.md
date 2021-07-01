@@ -13,19 +13,27 @@ After many years spent working in medical records; I am changing careers and tra
 <br>
 ## My Links
 **Note: Right-click on links to open in new page**<br><br>
-[Resume](/images/Resume.png)[back](./) <br>
+[Resume](/images/Resume.png) <br>
 _Link to my Resume._
 
-[GitHub](http://github.com/dweber0001)[back](./) <br>
+[GitHub](http://github.com/dweber0001)<br>
 _Link to my GitHub respository._
 
-[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net)[back](./) <br>
-_This is a mock responsive doctor's office website I created using .NET framework and webforms. I created an accompanying SQL doctor's office database._
+[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net) <br>
+_This is a mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._ <br>
+**Doctors Office Screenshots**
 
-[MiniBlogApp](http://dweber-microblog-app.herokuapp.com) [back](./)<br>
+<p float="left">
+  <img src="/images/home.png" width="150" height="200"> 
+  <img src="/images/about.png" width="150" height="200"> 
+  <img src="/images/services.png" width="150" height="200"> 
+  <img src="/images/contact.png" width="150" height="200"> 
+  </p>
+
+[MiniBlogApp](http://dweber-microblog-app.herokuapp.com) <br>
 _This miniblog utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. I did not learn anything about deployment in college, so this course was a great extension to my learning. I made some changes to make it a little more my own._
 
-[MatchingGame](https://dweber0001.github.io/matchGame) [back](./)<br>
+[MatchingGame](https://dweber0001.github.io/matchGame)<br>
 _A picture matching game I created using JavaScript, HTML and CSS_
 
 # Header 1
