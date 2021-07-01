@@ -20,18 +20,17 @@ _Link to my Resume._
 _Link to my GitHub respository._
 
 [DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net) <br>
-_This is a mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._ <br>
-**Doctors Office Screenshots**
+_Mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._ &nbsp; **Doctors Office Screenshots:**
 
 <p float="left">
-  <img src="/images/home.png" width="150" height="200"> 
-  <img src="/images/about.png" width="150" height="200"> 
-  <img src="/images/services.png" width="150" height="200"> 
-  <img src="/images/contact.png" width="150" height="200"> 
+  <img src="/images/home.png" width="140" height="200"> 
+  <img src="/images/about.png" width="140" height="200"> 
+  <img src="/images/services.png" width="140" height="200"> 
+  <img src="/images/contact.png" width="140" height="200"> 
   </p>
 
 [MiniBlogApp](http://dweber-microblog-app.herokuapp.com) <br>
-_This miniblog utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. I did not learn anything about deployment in college, so this course was a great extension to my learning. I made some changes to make it a little more my own._
+_This miniblog utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._
 
 [MatchingGame](https://dweber0001.github.io/matchGame)<br>
 _A picture matching game I created using JavaScript, HTML and CSS_
