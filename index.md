@@ -31,11 +31,16 @@ After many years spent working in medical records; I am changing careers and tra
 [MatchingGame](https://dweber0001.github.io/matchGame)&nbsp;&nbsp; **&#8592;** _Link to picture matching game I created using JavaScript, HTML and CSS_ &nbsp; **Matching Game Screenshot:**
 
 <p float="center">
-  <img src="/images/PictureMatchingGameJavaScript.PNG" width="400" height="280"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/PictureMatchingGameJavaScript.PNG" width="300" height="230"> 
  </p>
+ <br><br>
+<form>      
+  <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+  <input name="email" type="text" class="feedback-input" placeholder="Email" />
+  <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+  <input type="submit" value="SUBMIT"/>
+</form>
 
-
-@copy
 # Header 1
 ## Header 2
 ### Header 3
