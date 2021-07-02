@@ -15,7 +15,7 @@ After many years spent working in medical records; I am changing careers and tra
 ⛔️&nbsp; **Note:  Right-click on links to open in new page.** 
 <br>
  
-**[Resume](/images/Resume.png) &nbsp; ⬅️** _Link to my Resume._
+**[Resume](/images/DWeberResume.png) &nbsp; ⬅️** _Link to my Resume._
 
 **[GitHub](http://github.com/dweber0001) &nbsp;&nbsp; ⬅️** _Link to my respository._
 
