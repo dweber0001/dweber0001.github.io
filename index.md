@@ -4,9 +4,9 @@ My name is **Denise Weber** and I am very happy you are here! I have an associat
 
 ## About Me
 <p float="center">
-<img src="/images/me.png" width="160" height="150"> 
-<img src="images/sunset.png" width="300" height="150" >
-<img src="images/laptop.jpg" width="220" height="150">
+<img src="/images/me.png" width="150" height="150"> 
+<img src="images/sunset.png" width="340" height="150" >
+<img src="images/laptop.jpg" width="190" height="150">
 </p>
 
 After many years spent working in the field of medical records, my team was laid off due to offshoring and I was given the opportunity to pursue an associate degree in Software Development through the Trade Administration. I am now looking for an opportunity to combine previous work experience with my learned skills in development and to continue to learn and grow my skills.  After graduation I have been pursuing further knowledge with additional online learning. I love developing websites and applications, and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
@@ -22,10 +22,10 @@ After many years spent working in the field of medical records, my team was laid
 **Doctors Office Screenshots:**
 
 <p float="center">
-  <img src="/images/home.png" width="140" height="200"> 
-  <img src="/images/about.png" width="140" height="200"> 
-  <img src="/images/services.png" width="140" height="200"> 
-  <img src="/images/contact.png" width="140" height="200"> 
+  <img src="/images/home.png" width="160" height="200"> 
+  <img src="/images/about.png" width="160" height="200"> 
+  <img src="/images/services.png" width="160" height="200"> 
+  <img src="/images/contact.png" width="160" height="200"> 
   </p>
 
 **[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
