@@ -22,7 +22,7 @@ After many years spent working in the field of medical records, my team was laid
 **Doctors Office Screenshots:**
 
 <p float="center">
- &nbsp;&nbsp;<img src="/images/home.png" width="160" height="200"> &nbsp;&nbsp;
+  <img src="/images/home.png" width="160" height="200"> &nbsp;&nbsp;
   <img src="/images/about.png" width="160" height="200"> &nbsp;&nbsp;
   <img src="/images/services.png" width="160" height="200"> &nbsp;&nbsp;
   <img src="/images/contact.png" width="160" height="200"> &nbsp;&nbsp;
@@ -34,7 +34,7 @@ After many years spent working in the field of medical records, my team was laid
 <br>
 **MiniBlog and Matching Game Screenshots:**
 <p float="left">
-&nbsp;&nbsp;<img src="/images/miniblogapp.png" width="300" height="250"> &nbsp;&nbsp;
+&nbsp;&nbsp;<img src="/images/miniblogapp.png" width="320" height="250"> &nbsp;&nbsp;
  &nbsp;&nbsp;<img src="/images/PictureMatchingGameJavaScript.PNG" width="340" height="250">&nbsp;&nbsp;
 </p> 
 
