@@ -34,8 +34,8 @@ After many years spent working in the field of medical records, my team was laid
 <br>
 **MiniBlog and Matching Game Screenshots:**
 <p float="left">
-&nbsp;&nbsp;<img src="/images/miniblogapp.png" width="320" height="250"> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="/images/PictureMatchingGameJavaScript.PNG" width="340" height="250">&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="/images/miniblogapp.png" width="300" height="250"> &nbsp;&nbsp;
+ &nbsp;&nbsp;<img src="/images/PictureMatchingGameJavaScript.PNG" width="360" height="250">&nbsp;&nbsp;
 </p> 
 
 
