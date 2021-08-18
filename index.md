@@ -13,7 +13,7 @@ After many years spent working in the field of medical records, my team was laid
 <br>
 ## My Work
  
-**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; ⬅️** _Link to my Resume._
+**[Resume](/images/DeniseWeber_Resume.pdf){:target="_blank"}&nbsp; ⬅️** _Link to my Resume._
 
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; ⬅️** _Link to my respository._
 
