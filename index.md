@@ -17,7 +17,8 @@ After many years spent working in the field of medical records, my team was laid
 
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; ⬅️** _Link to my respository._
 
-**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and Web Forms. Also accompanying SQL doctor's office database on GitHub._  <br><br>
+**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and Web Forms. Also accompanying SQL doctor's office database on GitHub._  <br>
+<br>
 **Doctors Office Screenshots:**
 
 <p float="center">
@@ -29,8 +30,8 @@ After many years spent working in the field of medical records, my team was laid
 
 **[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
 
-**[MatchingGame](https://dweber0001.github.io/matchGame){:target="_blank"}&nbsp; ⬅️** _Link to matching game I created with JavaScript, HTML and CSS_ 
-<br><br>
+**[MatchingGame](https://dweber0001.github.io/matchGame){:target="_blank"}&nbsp; ⬅️** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
+<br>
 **MiniBlog and Matching Game Screenshots:**
 <p float="left">
  &nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/miniblogapp.png" width="230" height="250"> &nbsp;&nbsp;&nbsp;&nbsp;
