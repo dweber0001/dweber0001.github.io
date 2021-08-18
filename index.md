@@ -1,15 +1,15 @@
 # Hello! 
 
-My name is **Denise Weber** and I am a new Front-end Developer working remotely out of Green, Ohio. I'm happy you're here! 
+My name is **Denise Weber** and I am very happy you are here! I have an associate's degree in Software Development and I am interested in learning and growing my skills in development and design. I am looking for an entry level position with a great company where I can contribute, learn and grow long-term. I live and work remotely near Green, Ohio. 
 
 ## About Me
 <p float="center">
-<img src="/images/me.png" width="130" height="150"> 
+<img src="/images/me.png" width="140" height="150"> 
 <img src="images/sunset.png" width="260" height="150" >
-<img src="images/laptop.jpg" width="190" height="150">
+<img src="images/laptop.jpg" width="180" height="150">
 </p>
 
-After many years spent working in medical records; I am changing careers and transitioning to web development after going back to school for software development. I have spent the last 3 years obtaining my AS degree and then furthering my knowledge with additional online learning. I love developing websites and applications and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. I am looking for an entry level position with a company where I can contribute, learn and grow long-term.  My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
+After many years spent working in the field of medical records, my team was laid off due to offshoring and I was given the opportunity to pursue an associate degree in Software Development through the Trade Administration. I am now looking for an opportunity to combine previous work experience with my learned skills in development and to continue to learn and grow my skills.  After graduation I have been pursuing further knowledge with additional online learning. I love developing websites and applications, and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
 <br>
 ## My Work
  
@@ -17,7 +17,7 @@ After many years spent working in medical records; I am changing careers and tra
 
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; ⬅️** _Link to my respository._
 
-**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and webforms. Accompanying SQL doctor's office database._  <br>
+**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; ⬅️**  _Link to mock responsive doctor's office website I created using .NET framework and Web Forms. Also accompanying SQL doctor's office database on GitHub._  <br>
 **Doctors Office Screenshots:**
 
 <p float="center">
