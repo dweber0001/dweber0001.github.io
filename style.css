@@ -1,0 +1,92 @@
+html{
+/* Setting base font size of 10px for easier rem calculations. rem converts: 1rem === 10px, 1.5rem === 15px, 2rem === 20px, 2.5rem === 25px, etc. */
+  
+  font-size: 10px;
+}
+body{
+  font-family: Arial, sas-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #222;
+  margin: 0;
+}
+h1{
+  font-size: 4em;
+  margin-bottom: 0; 
+}
+@media(max-width: 460px){
+  h1{
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+h3{
+  font-size: 2.8rem;
+}
+
+h4{
+  font-size: 1.8rem;
+}
+
+#main{
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eed;
+}
+@media(max-width 460px) {
+  #main{
+    margin: 0;
+  }
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+ }
+#img-div{
+  background: #fff; 
+  padding: 25px 10px 15px 10px;
+  margin: 0;
+}
+#img-caption{
+  margin: 15px 5px 0 5px;
+}
+@media(max-width: 460px){
+  #img-caption{
+    font-size: 1.4rem;
+  }
+}
+a{
+  color: #333399;
+}
+
+a:visited{
+  color: #666699;
+}
+
+#about{
+  margin: 50px 0 40px 0;
+  text-align: center;
+}
+ul{
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li{
+  margin: 16px 0;
+}
+
+blockquote{
+  font-style: italic;
+  font-size: 1.8rem;
+  max-width: 590px;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
