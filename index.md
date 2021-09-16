@@ -30,7 +30,7 @@ After many years spent working in the field of medical records, my team was laid
 
 **[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; ⬅️** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
 
-**[MatchingGame](https://dweber0001.github.io/matchGame){:target="_blank"}&nbsp; ⬅️** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
+**[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; ⬅️** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
 <br>
 **MiniBlog and Matching Game Screenshots:**
 <p float="left">
@@ -40,5 +40,5 @@ After many years spent working in the field of medical records, my team was laid
 
 
 ## CONTACT ME 
-**[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"} &nbsp; ⬅️ _Email me!_**  
+**[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"} &nbsp; _Email me!_**  
 ### I look forward to hearing from you and value any feedback! 
