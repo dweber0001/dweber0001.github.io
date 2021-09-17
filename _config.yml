@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
 title: [Personal Portfolio]
 description: [About me and my work]
-show_downloads: [false] 
+show_downloads: false 
 
