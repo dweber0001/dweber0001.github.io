@@ -4,7 +4,7 @@ My name is **Denise Weber** and I am very happy you are here! I have an associat
 
 ## About Me
 <p float="center">
-<img src="/images/profileme.png" width="225" height="240"> 
+<img src="/images/profile3.png" width="225" height="240"> 
 <img src="images/sunset.png" width="225" height="240" >
 <img src="images/laptop.jpg" width="225" height="240">
 </p>
