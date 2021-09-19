@@ -3,12 +3,12 @@
 My name is **Denise Weber** and I am very happy you are here! I have an associate's degree in Software Development and I am interested in learning and growing my skills in development and design. I am looking for an entry level position with a great company where I can contribute, learn and grow long-term. I live and work remotely near Green, Ohio. 
 
 ## About Me
-<p float="center">
+<p float="center" padding-left="10px" padding-right="10px">
 <img src="/images/me.png" width="175" height="190"> 
 <img src="images/sunset.png" width="280" height="190">
 <img src="images/homeoffice.jpg" width="205" height="190">
 </p>
-21-
+
 After many years spent working in the field of medical records, my team was laid off due to offshoring and I was given the opportunity to pursue an associate degree in Software Development through the Trade Administration. I am now looking for an opportunity to combine previous work experience with my learned skills in development and to continue to learn and grow my skills.  After graduation I have been pursuing further knowledge with additional online learning. I love developing websites and applications, and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
 <br>
 ## My Work
