@@ -3,40 +3,41 @@
 
 @import "{{ site.theme }}";
 html {
-  background: #6c8889; 
-  background: linear-gradient(#6c8889, #a1c0bb) fixed;  
+  background: #506465; 
+  background: linear-gradient(#506465, #cbd5d6) fixed;  
 }
 body {
   font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #414141; 
   font-weight: 400;  
 }
 .wrapper {
-  width: 800px;
+  width: 860px;
 }
 a {
   color: #05ad61;
   font-size: 18px;
+  font-weight: 600;
   text-decoration: none;
 }
 header {
   background: #f8ba88; 
-  background: linear-gradient(#f17b19, #f8ba88);
+  background: linear-gradient(#f3903e, #f8ba88);
   border-bottom:1px solid #f59a50;
   h1 {
-    font-size:25px;
+    font-size:26px;
     line-height:1.2;
     color: #007427;
-    text-shadow:rgba(#fff, 0.9) 0 1px 0;
+    text-shadow: rgba(#fff, 0.9) 0 1px 0;
   }
   p {
-    font-size: 14px;
+    font-size: 15px;
     color: #577c68;
   }
   a {
     color: #05ad61;
   }
 }
-@media print, screen and (max-width: 800px) {
+@media print, screen and (max-width: 860px) {
   body {
     padding:0;
   }
