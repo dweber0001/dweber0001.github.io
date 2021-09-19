@@ -4,9 +4,9 @@ My name is **Denise Weber** and I am very happy you are here! I have an associat
 
 ## About Me
 <p float="center">
-<img src="/images/profile3.png" width="225" height="220"> 
-<img src="images/sunset.png" width="225" height="220" >
-<img src="images/homeoffice.jpg" width="225" height="220">
+<img src="/images/profile3.png" width="180" height="200"> 
+<img src="images/sunset.png" width="320" height="200" >
+<img src="images/homeoffice.jpg" width="180" height="200">
 </p>
 
 After many years spent working in the field of medical records, my team was laid off due to offshoring and I was given the opportunity to pursue an associate degree in Software Development through the Trade Administration. I am now looking for an opportunity to combine previous work experience with my learned skills in development and to continue to learn and grow my skills.  After graduation I have been pursuing further knowledge with additional online learning. I love developing websites and applications, and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
