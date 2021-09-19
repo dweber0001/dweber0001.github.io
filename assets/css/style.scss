@@ -92,10 +92,3 @@ footer {
     width:100%;
   }
 }
-
-@media print {
-  header p.view a small:before {
-    color: #05ad61;
-    content:'at https://github.com/';
-  }
-}
