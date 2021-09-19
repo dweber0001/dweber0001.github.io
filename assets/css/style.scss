@@ -2,16 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-
 html {
   background-image: linear-gradient(to top, #6c7989, #788897, #8597a4, #93a6b2, #a1b6c0) fixed;  
 }
-
 body {
   font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #414141; 
   font-weight: 400;  
 }
-
 wrapper {
   width:800px;
 }
@@ -19,12 +16,10 @@ a {
   color: #06c06c;
   text-decoration:none;
 }
-
 header {
   background #f8ba88; 
   background: linear-gradient(#f17b19, #f8ba88);
   border-bottom:1px solid #f59a50;
-  
   h1 {
     font-size:25px;
     line-height:1.2;
