@@ -51,7 +51,7 @@ header {
 footer {
   color:#d2d2d2;
 }
-@media print, screen and (max-width: 860px) {
+@media print, screen and (max-width: 860px){
   body {
     padding:0;
   }
@@ -64,6 +64,7 @@ footer {
     border-radius: 0;
     padding:20px;
     width:auto;
+    
     p {
       float:none;
       margin:0;
