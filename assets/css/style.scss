@@ -39,8 +39,29 @@ header {
     color: #05ad61;
   }
 }
+p {
+    margin:0;
+    color:#61778B;
+    width:300px;
+    font-size:13px;
+
+    &.view {
+      display:none;
+      font-weight:700;
+       text-shadow: rgba(#011c10, 0.9) 0 1px 0;
+      -webkit-font-smoothing:antialiased;
+
+      a {
+        color:#049a56;
+      }
+
+      small {
+        font-weight:400;
+     }
+   }
+}
 footer {
-  color:#e6e6e6;
+  color:#929292;
 }
 @media print, screen and (max-width: 860px) {
   body {
