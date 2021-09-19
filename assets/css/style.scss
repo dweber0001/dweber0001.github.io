@@ -3,18 +3,20 @@
 
 @import "{{ site.theme }}";
 html {
-  background-image: linear-gradient(to top, #6c7989, #788897, #8597a4, #93a6b2, #a1b6c0) fixed;  
+  background: #6c8889; 
+  background: linear-gradient(#6c8889, #a1c0bb) fixed;  
 }
 body {
   font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #414141; 
   font-weight: 400;  
 }
 wrapper {
-  width:800px;
+  width: 800px;
 }
 a {
-  color: #06c06c;
-  text-decoration:none;
+  color: #05ad61;
+  font-size: 16px;
+  text-decoration: none;
 }
 header {
   background: #f8ba88; 
@@ -31,6 +33,32 @@ header {
     color: #577c68;
   }
   a {
-    color: #06c06c;
+    color: #05ad61;
+  }
+}
+@media print, screen and (max-width: 800px) {
+  body {
+    padding:0;
+  }
+
+  .wrapper {
+    border-radius: 0;
+    box-shadow: none;
+    width:100%;
+  }
+
+  footer {
+    border-radius: 0;
+    padding:20px;
+    width:auto;
+
+    p {
+      float:none;
+      margin:0;
+    }
+
+    p + p {
+      float:none;
+    }
   }
 }
