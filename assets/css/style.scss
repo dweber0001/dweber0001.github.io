@@ -17,7 +17,7 @@ body {
   width: 860px;
 }
 a {
-  color:#05cc72;
+  color:#f3903e;
   text-shadow: rgba(#011c10, 0.9) 0 1px 0;
   font-size: 20px;
   font-weight: 700;
@@ -30,27 +30,27 @@ header {
   h1 {
     font-size:26px;
     line-height:1.2;
-    color: #049a56;
+    color: #fff7ee;
      text-shadow: rgba(#011c10, 0.9) 0 1px 0;
   }
   p {
     font-size: 16px;
-    color: #047c45;
+    color: #fff7ee;
     font-weight: 600;
   }
   a {
-    color: #05ad61;
+    color: #fff7ee;
   }
 }
 
 p {
-   color: #4c6d5c;
-&.view {
-font-weight: 600;
-text-shadow: rgba(#011c10, 0.9) 0 1px 0;
-a {
-        color:#049a56;
-      }
+  color: #344a3f;
+  &.view {
+  font-weight: 600;
+  text-shadow: rgba(#011c10, 0.9) 0 1px 0;
+  a {
+    color:#f3903e;
+  }
 
       small {
         font-weight:400;
