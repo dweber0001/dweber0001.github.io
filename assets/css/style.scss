@@ -10,12 +10,15 @@ body {
   font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #414141; 
   font-weight: 400;  
 }
+
+//double check below if not working, change width back on wrapper
+
 .wrapper {
   width: 860px;
 }
 a {
   color:#05cc72;
-  text-shadow: rgba(#011c10, 0.9) 1px 1px 1px;
+  text-shadow: rgba(#011c10, 0.9) 0 1px 0;
   font-size: 20px;
   font-weight: 700;
   text-decoration: none;
@@ -23,30 +26,85 @@ a {
 header {
   background: #f8ba88; 
   background: linear-gradient(#f3903e, #f8ba88);
-  border-bottom: 1px solid #f59a50;
+  border-bottom:1px solid #f59a50;
   h1 {
     font-size:26px;
     line-height:1.2;
-    color: #047c45;
-    text-shadow: rgba(#011c10, 0.9) 0 1px 1px;
+    color: #049a56;
+     text-shadow: rgba(#011c10, 0.9) 0 1px 0;
   }
   p {
+    font-size: 16px;
     color: #047c45;
-    font-size: 15px;    
-    font-weight: 600; 
-    
-    &.view {
-     color:#049a56;
-     text-shadow: rgba(#011c10, 0.9) 0 1px 0;
-     
-     a {
-       color: #047c45;
-    }
-     small {
-       color:#049a56;
-     }     
+    font-weight: 600;
+  }
+  a {
+    color: #05ad61;
   }
 }
+
+p {
+   color: #4c6d5c;
+&.view {
+font-weight: 600;
+text-shadow: rgba(#011c10, 0.9) 0 1px 0;
+a {
+        color:#049a56;
+      }
+
+      small {
+        font-weight:400;
+     }
+   }
+}
+
 footer {
-  color:#d2d2d2;
+  color: #d2d2d2;
+}
+@media print, screen and (max-width: 860px) {
+  body {
+    padding:0;
+  }
+
+  .wrapper {
+    border-radius: 0;
+    box-shadow: none;
+    width:100%;
+  }
+
+  footer {
+    border-radius: 0;
+    padding:20px;
+    width:auto;
+
+    p {
+      float:none;
+      margin:0;
+    }
+
+    p + p {
+      float:none;
+    }
+  }
+}
+
+@media print, screen and (max-width:580px) {
+  header ul {
+    display:none;
+  }
+
+  header p.view {
+    display:block;
+  }
+
+  header p {
+    width:100%;
+  }
+}
+
+@media print {
+  header p.view a small:before {
+    color: #05ad61;
+    content:'at https://github.com/';
+  }
 }
