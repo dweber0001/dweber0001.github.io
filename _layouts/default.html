@@ -17,10 +17,10 @@
     {% include head-custom.html %}
 	  
   <style>
-	.wrapper {
-		background:#DEDEDE;
+	section{
+		background: linear-gradient(#fafafa, #DEDEDE 700px);
 	}
-	.wrapper > .dark-mode {
+	section.dark-mode {
 		background-color: black;
 		color: white;
 	}
@@ -46,7 +46,7 @@
      
       </header>
 	    
-      <section>
+      <section class="dark-mode">
 	      
 	
       {{ content }}
