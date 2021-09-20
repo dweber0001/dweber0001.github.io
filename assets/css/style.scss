@@ -55,34 +55,4 @@ footer {
     color:#fff;
     font-weight:bold;
   }
-
-  p {
-    float:left;
-  }
-
-  p + p {
-    float:right;
-  }
 }
-@media print, screen and (max-width: 860px) {
-  body {
-    padding:0;
-  }
-  .wrapper {
-    border-radius: 0;
-    box-shadow: none;
-    width:100%;
-  }
-  footer {
-    border-radius: 0;
-    padding:20px;
-    width:auto;
-    p {
-      float:none;
-      margin:0;
-    }
-    p + p {
-      float:none;
-    }
-  }
-  }
