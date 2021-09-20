@@ -3,9 +3,22 @@
 
 @import "{{ site.theme }}";
 html {
-  background: #506465; 
-  background: linear-gradient(#506465, #cbd5d6) fixed;  
+  background: linear-gradient(-45deg, #ee7752, #d65c4d, #609da4, #cbd5d6);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
 }
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 body {
   font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color: #414141; 
   font-weight: 400;  
