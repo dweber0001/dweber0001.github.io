@@ -1,5 +1,4 @@
-# Hello! 
-<button onclick="myFunction()">Toggle dark mode</button>
+# Hello!
 My name is **Denise Weber** and I am very happy you are here! I have an associate's degree in Software Development and I am interested in learning and growing my skills in development and design. I am looking for an entry level position with a great company where I can contribute, learn and grow long-term. I live and work remotely near Green, Ohio. 
 
 ## About Me
