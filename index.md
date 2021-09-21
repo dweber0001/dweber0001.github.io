@@ -39,7 +39,7 @@ After many years spent working remotely in the medical transcription field, my e
 
 ## CONTACT ME 
 **[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"} &nbsp; <  _Email me!_**  
-**<a href=”tel:1-330-212-1204″><img src=” https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxObcdQtKPC7px6W6neT4G3OZOYTQquhWUDw&usqp=CAU”></a>
+**[Phone] <a href=”tel:1-330-212-1204″><img src=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxObcdQtKPC7px6W6neT4G3OZOYTQquhWUDw&usqp=CAU”></a>
 **
 **[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
