@@ -1,5 +1,5 @@
-# Hello! 🧭
-My name is **Denise Weber** and I am very happy you are here! I have an associate's degree in Software Development and I am interested in learning and growing my skills in development and design. I am looking for an entry level position with a great company where I can contribute, learn and grow long-term. I live and work remotely near Green, Ohio. 
+# Hello!  <p float="center" padding-left="10px" padding-right="10px"> <img src="/images/me.png" width="175" height="190"></p> 
+My name is **Denise Weber** and I am very happy you are here! I have an Associate's Degree in Software Development and Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Green, Ohio. 
 
 ## About Me
 <p float="center" padding-left="10px" padding-right="10px">
