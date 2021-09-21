@@ -90,7 +90,12 @@ img {
   border-radius: 50%;
 }
 footer {
-  color: #d2d2d2;
+  color: #dcdcdc;
+   
+   a{
+   color: #f5f5f5;
+      font-weight: 600;
+   }
 }
 @media print, screen and (max-width: 860px) {
   body {
