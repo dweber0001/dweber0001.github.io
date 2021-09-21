@@ -16,15 +16,6 @@
 
     {% include head-custom.html %}
 	  
-  <style>
-	section{
-		background: linear-gradient(#fafafa, #DEDEDE 700px);
-	}
-	section.dark-mode {
-		background-color: black;
-		color: white;
-	}
-  </style>	  
   </head>
   <body>
     <div class="wrapper">
@@ -41,12 +32,10 @@
         {% endif %}
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
-	      
- <p><button onclick="myFunction()">Toggle dark mode</button></p>
      
       </header>
 	    
-      <section class="dark-mode">
+      <section>
 	      
 	
       {{ content }}
@@ -60,12 +49,5 @@
       <p>Hosted on GitHub Pages </p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
-
   </body>
 </html>
