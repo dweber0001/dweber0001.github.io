@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 html {
-   background: linear-gradient(-45deg, #626262, #a7a7a7, #c97272, #b94747);
+   background: linear-gradient(-45deg, #626262, #a7a7a7, #c97272, #b94747)fixed;
    background-size: 400% 400%;
    animation: gradient 15s ease infinite;
    height:100%;
