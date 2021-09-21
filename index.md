@@ -1,4 +1,4 @@
-<p float="center" padding-left="10px" padding-right="10px"> <img src="/images/me.png" width="175" height="190"> # Hello! </p> 
+# Hello! <img float="center" padding-left="20px" padding-right="20px" src="/images/me.png" width="75" height="90">
 
 My name is **Denise Weber** and I am very happy you are here! I have an Associate's Degree in Software Development and Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Green, Ohio. 
 
