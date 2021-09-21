@@ -39,7 +39,7 @@ After many years spent working remotely in the medical transcription field, my e
 
 ## CONTACT ME 
 **[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"} &nbsp; <  _Email me!_**  
-**[Phone] <a href="tel:330-212-1204"></a>(:target="_blank")&nbsp; <  _Call me!_**
+**[Phone] (tel:330-212-1204)(:target="_blank")&nbsp; <  _Call me!_**
 **[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
 
