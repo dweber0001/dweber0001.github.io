@@ -1,13 +1,11 @@
 
-# Hello! <img src="/images/me.png" width="45" height="50" alt="Denise">
+# Hello!   <img src="/images/me.png" width="40" height="45" alt="picture of Denise">
 
 My name is **Denise Weber** and I am very happy you are here! I have an Associate's Degree in Software Development and Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Green, Ohio. 
 
 ## About Me
-<p float="center" padding-left="10px" padding-right="10px">
-
-<img src="images/sunset.png" width="280" height="190">
-<img src="images/homeoffice.jpg" width="205" height="190">
+<p float="center" padding-left="20px" padding-right="20px">
+<img src="images/sunset.png" width="480" height="230" alt="picture of sunset">
 </p>
 
 After many years spent working in the field of medical records, my team was laid off due to offshoring and I was given the opportunity to pursue an associate degree in Software Development through the Trade Administration. I am now looking for an opportunity to combine previous work experience with my learned skills in development and to continue to learn and grow my skills.  After graduation I have been pursuing further knowledge with additional online learning. I love developing websites and applications, and I am passionate about technology, learning and taking on challenges. Please look around and view links to my GitHub and work I have done showing some of my capabilities. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
