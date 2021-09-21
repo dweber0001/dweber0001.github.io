@@ -8,7 +8,7 @@ My name is **Denise Weber** and I'm happy you're here! I have an Associate's Deg
 <img src="images/sunset.png" width="480" height="220" style="border-radius:50%" alt="picture of sunset">
 </p>
 
-After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in November 2018 due to our departments work being sent offshore. As part of the Trade Adjustment Assistance (TAA) program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time interest of mine. I am currently looking for opportunities to combine previous work experience with my development/design skills, and to continue learning and growing in this field. Since graduating I have continued learning to further my knowledge through freeCodeCamp, Udemy and other online trainings. I am passionate about learning, technology, developing websites and applications, collaboration and taking on challenges. Please look around and view links to some of the work I have done. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_** &nbsp; As a tribute to sunsets, I designed my background to simulate a sunset😎 
+After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in November 2018 due to our departments work being sent offshore. As part of the Trade Adjustment Assistance (TAA) program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time interest of mine. I am currently looking for opportunities to combine previous work experience with my development/design skills, and to continue learning and growing in this field. Since graduating I have continued learning to further my knowledge through freeCodeCamp, Udemy and other online trainings. I am passionate about learning, technology, developing websites and applications, collaboration and taking on challenges. Please look around and view links to some of the work I have done. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_** &nbsp; As a tribute to sunsets, I designed my background to simulate a sunset&nbsp; 😎 
 <br>
 ## My Work
  
@@ -38,9 +38,8 @@ After many years spent working remotely in the medical transcription field, my e
 
 
 ## CONTACT ME 
-**[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"} &nbsp; <  _Email me!_**  
-**[Phone] <a href=”tel:1-330-212-1204″><img src=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxObcdQtKPC7px6W6neT4G3OZOYTQquhWUDw&usqp=CAU”></a>
-**
+**[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}&nbsp;<  _Email me!_**  
+**[Phone] <a href="tel:1-330-212-1204">Call</a> < ** _Call me!_
 **[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
 
