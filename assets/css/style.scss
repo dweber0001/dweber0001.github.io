@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 html {
-   background: linear-gradient(-25deg, to right bottom, #0e080b, #24171e, #39222e, #502d40, #683952, #86465f, #a55468, #c4636f, #e77f6a, #fea363, #ffcc61, #fff86e)fixed;
-   background-size: 200% 200%;
+   background: linear-gradient(-45deg, to right bottom, #0e080b, #24171e, #39222e, #502d40, #683952, #86465f, #a55468, #c4636f, #e77f6a, #fea363, #ffcc61, #fff86e)fixed;
+   background-size: 400% 400%;
    animation: gradient 15s ease infinite;
    height:100%;
 }
