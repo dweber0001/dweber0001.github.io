@@ -1,7 +1,7 @@
 
 # Hello!  
 My name is **Denise Weber** and I'm happy you're here! 
-<p><img src="/images/me.png" alt="Denise picture" width="85" height="85" style="border-radius:50%;  margin-right: 25px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
+<p style="margin-right: 10px; float: right;"><img src="/images/me.png" alt="Denise picture" width="95" height="95" style="border-radius:50%; margin-right: 25px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
 
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunsets!** 
