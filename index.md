@@ -1,10 +1,11 @@
 
 # Hello!  <a href="url"><img src="/images/me.png" width="65" height="65" padding="0 30px" margin-top="60px" style="border-radius:50%" alt="picture of Denise" ></a>
 
-My name is **Denise Weber** and I'm happy you're here! I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Green, Ohio. 
+My name is **Denise Weber** and I'm happy you're here! I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio. 
 
 ## About Me
-<p><img src="images/sunset.png" alt="picture of sunset" width="350" height="230" style="border-radius:50%; margin-right: 15px; float: left;"/>&nbsp;&nbsp;Note: Inspired by my love of sunsets, I designed my color changing background to simulate a sunset :)</p>
+<p><img src="images/sunset.png" alt="picture of sunset" width="350" height="230" style="border-radius:50%; margin-right: 15px; float: left;"/>
+**NOTE:** Inspired by my love of sunsets, I designed my color changing background to simulate a sunset :)</p>
 
 After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in November 2018 due to our departments work being sent offshore. As part of the Trade Adjustment Assistance (TAA) program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time interest of mine. I am currently looking for opportunities to combine previous work experience with my development/design skills, and to continue learning and growing in this field. Since graduating I have continued learning to further my knowledge through freeCodeCamp, Udemy and other online trainings. I am passionate about learning, technology, developing websites and applications, collaboration and taking on challenges. Please look around and view links to some of the work I have done. My other interests are design, travel, photography, my faith, family, friends **_...and sunsets!_**
 <br>
