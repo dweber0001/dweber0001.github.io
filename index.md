@@ -6,7 +6,7 @@ My name is **Denise Weber** and I'm happy you're here!
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunsets!** 
 <p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="420" height="320" style="border-radius:50%; margin-right: 20px; float: left;"/> After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in 11/2018 due to our work being sent offshore. As part of the Federal TAA program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired development skills; and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through online sources including Udemy, freeCodeCamp, and others.</p>
-<span style="color: purple; font-weight: bold; font-size: 16px;">Inspired by my love of sunsets, I designed my color-changing background to simulate a sunset :)</span> 
+<span style="color: #00a2d8; font-weight: bold; font-size: 20px;">Inspired by my love of sunsets, I designed my color-changing background to simulate a sunset :)</span> 
 <br>
 ## My Work
 **[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
