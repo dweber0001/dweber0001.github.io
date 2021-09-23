@@ -88,13 +88,13 @@ ul {
 
 .projects-section {
   text-align: center;
-  padding: 4rem 3rem;
+  padding: 6rem 3rem;
   background: rgba(137, 162, 176, 0.7);
 }
 
 .projects-section-header {
   max-width: 360px;
-  margin: 0 auto auto auto;
+  margin: 0 auto 5rem auto;
   font-size: 2rem;
   color: #fcfcfc;
   padding: 8px 2px;
@@ -120,12 +120,12 @@ ul {
   width:100%;
   max-width: 860px;
   margin: 0 auto;
-  margin-bottom: 4rem; 
+  margin-bottom: 6rem; 
 }
 
 @media (max-width: 30.6em) {
    projects-section {
-    padding: 3rem 1.5rem;
+    padding: 6rem 1.5rem;
   }
 
   .projects-grid {
@@ -148,15 +148,14 @@ ul {
 }
 
 .project-image { 
-   width: 270px;
-   height: 280px;
-   object-fit: fill;  
+  height: calc(100% - 10rem);
+  width: 100%;
+  object-fit: fill;  
 } 
 
 
 .project-title {
-  font-size: 1.2rem;
-  width: 270px;
+  font-size: 1.4rem;
   padding: 1.5rem 0.5rem;
 }
 
