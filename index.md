@@ -16,19 +16,18 @@ After many years spent working remotely in the medical transcription field, my e
 **[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
 
 **[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; <**  _Link to mock responsive doctor's office website I created using .NET framework and Web Forms. Also accompanying SQL doctor's office database on GitHub._  <br>
-<br>
+**[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; <** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ br
+
+**[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; <** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
+
 **Doctors Office -- JavaScript Matching Game -- MiniBlogApp Screenshots:**
 <p float="left">
 <img class="project-image" src="/images/homepg.png" alt="Doctors Office home page"/>
 <img clss="project-image" src="/images/JSMatchingGame.png" alt="Image of JS Match Game"/>
-<img class="project-image" src="https://dweber0001.github.io/images/miniblogapp.png" alt="Image of Miniblog app"/>
+<img class="project-image" src="/images/microblogApp.png" alt="Image of Miniblog app"/>
 </p> 
 
-**[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; <** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
-
-**[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; <** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
 <br>
-**MiniBlog and Matching Game Screenshots:**
 
 
 
