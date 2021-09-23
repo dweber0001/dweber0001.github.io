@@ -20,12 +20,27 @@ After many years spent working remotely in the medical transcription field, my e
 
 **[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; <** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
 
-**Doctors Office -- JavaScript Matching Game -- MiniBlogApp Screenshots:**
-<p float="left">
+
+<div class="projects-grid">
+  <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
 <img class="project-image" src="/images/homepg.png" alt="Doctors Office home page"/>
-<img clss="project-image" src="/images/JSMatchingGame.png" alt="Image of JS Match Game"/>
-<img class="project-image" src="/images/microblogApp.png" alt="Image of Miniblog app"/>
-</p> 
+    <p class="project project-title">
+    <span class="code">Doctors Office Site</span>
+    </p>
+  </a>
+  <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
+    <img class="project-image" src="/images/microblogApp.png" alt="Image of Miniblog app"/><p class="project project-title">
+      <span class="code">Mini Blog App</span>
+    </p>
+  </a>
+  <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile">   
+<img class="project-image" src="/images/JSMatchingGame.png" alt="Image of JS Match Game"/>
+ <p class=" project project-title">
+      <span class="code">JS Matching Game</span>
+    </p>  
+   </a>
+  </div>    
+  <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">Show Others<i class="fas fa-chevron-right"></i></a>
 
 <br>
 
