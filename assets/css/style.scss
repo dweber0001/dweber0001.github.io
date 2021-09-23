@@ -85,9 +85,10 @@ ul {
      border-left:1px solid #fc8576;
     }
 }
+
 .project-image {
-  height: calc(100% - 10rem);
-  width: 100%;
+  height: calc(100% - 30rem);
+  width: auto;
   object-fit: fill;  
 }
 
