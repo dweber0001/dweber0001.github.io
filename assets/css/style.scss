@@ -88,7 +88,7 @@ ul {
 
 .projects-section {
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 5rem 2rem;
   background: rgba(137, 162, 176, 0.7);
 }
 
@@ -120,12 +120,12 @@ ul {
   width:100%;
   max-width: 860px;
   margin: 0 auto;
-  margin-bottom: 3rem; 
+  margin-bottom: 4rem; 
 }
 
 @media (max-width: 30.6em) {
    projects-section {
-    padding: 4rem 1.5rem;
+    padding: 5rem 1.5rem;
   }
 
   .projects-grid {
@@ -149,15 +149,14 @@ ul {
 
 .project-image { 
   height: calc(100% - 5rem);
-  width: 90%;
+  width: 100%;
   object-fit: fill;  
 } 
 
 
 .project-title {
   font-size: 1.4rem;
-  margin-top: 0;
-  padding: 1.5rem 0.5rem;
+  padding: 1.6rem 0.5rem;
 }
 
 .btn {
@@ -172,7 +171,7 @@ ul {
 .btn-show-all {
   font-size: 1.8rem;
    color: #fcfcfc;
-  background:  #ffd651;
+  background:  #cc7f2a;
   transition: background 0.3s ease-out;
 }
 
