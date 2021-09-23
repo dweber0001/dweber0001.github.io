@@ -30,7 +30,7 @@ After many years spent working remotely in the medical transcription field, my e
     </p>
   </a>
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
-    <img class="project-image" src="/images/microblogApp.png" alt="project"/>
+    <img class="project-image" src="/images/miniblogApp.png" alt="project"/>
     <p class="project project-title">
       <span class="code">Mini Blog App</span>
     </p>
