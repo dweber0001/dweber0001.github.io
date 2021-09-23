@@ -85,6 +85,11 @@ ul {
      border-left:1px solid #fc8576;
     }
 }
+.project-image {
+  height: calc(100% - 10rem);
+  width: 100%;
+  object-fit: fill;  
+}
 
 footer {
    p{
