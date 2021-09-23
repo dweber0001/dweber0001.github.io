@@ -41,7 +41,7 @@ After many years spent working remotely in the medical transcription field, my e
     </p>  
    </a>
   </div>    
-  <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">Show Others<i class="fas fa-chevron-right"></i></a>
+  <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">Show Others ></a>
 </section>
 
 
