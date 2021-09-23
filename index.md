@@ -18,9 +18,8 @@ After many years spent working remotely in the medical transcription field, my e
 <br>
 **Doctors Office Screenshots:**
 
-<p float="left">
-  <img src="/images/homepg.png"> &nbsp;&nbsp;
- </p>
+<img class="project-image" src="/images/homepg.png" alt="Doctors Office home page"/>
+ 
 
 **[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; <** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ 
 
