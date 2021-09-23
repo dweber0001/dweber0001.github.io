@@ -20,7 +20,8 @@ After many years spent working remotely in the medical transcription field, my e
 
 **[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; <** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
 
-
+<section id="projects" class="projects-section">
+  <h2 class="projects-section-header">View some of my work</h2>
 <div class="projects-grid">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
 <img class="project-image" src="/images/homepg.png" alt="Doctors Office home page"/>
@@ -41,6 +42,8 @@ After many years spent working remotely in the medical transcription field, my e
    </a>
   </div>    
   <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">Show Others<i class="fas fa-chevron-right"></i></a>
+</section>
+
 
 <br>
 
