@@ -20,7 +20,7 @@ After many years spent working remotely in the medical transcription field, my e
 **Doctors Office -- JavaScript Matching Game -- MiniBlogApp Screenshots:**
 <p float="left">
 <img class="project-image" src="/images/homepg.png" alt="Doctors Office home page"/>
-<img clss="project-image" src="https://user-images.githubusercontent.com/80427681/132967770-ad4ce044-c787-4ddd-a597-4c6f4209e545.png" alt="Image of JS Match Game"/>
+<img clss="project-image" src="/images/JSMatchingGame.png" alt="Image of JS Match Game"/>
 <img class="project-image" src="https://dweber0001.github.io/images/miniblogapp.png" alt="Image of Miniblog app"/>
 </p> 
 
