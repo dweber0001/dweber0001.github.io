@@ -106,88 +106,16 @@ ul {
 
 @media (max-width: 30em) {
   .projects-section-header {
-    max-width: 320px;
-    font-size: 1.6rem;
+     max-width: 320px;
+     font-size: 1.6rem;
   } 
+  .project-title {
+     font-size: 0.7rem;
+     padding: 12px 0;
+  }
 }
-  .row > .column {
-        padding: 5px;
-    }
-
-    .column {
-        float: left;
-        width: 33.33%;
-    }
-
-    /* Clear floats after rows */
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-
-    .content {
-        padding: 5px;
-    }
-
-
-    /* Responsive layout - makes a two column-layout instead of four columns */
-    @media screen and (max-width: 430px) {
-
-        .row > .column {
-            padding: 5px;
-        }
-
-        .column {
-            float: right;
-            width: 49.99%;
-        }
-        /* Clear floats after rows */
-        .row:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        .content {
-            padding: 5px;
-        }
-       
-       .project-title {
-            font-size: 0.6rem;
-            padding: 12px 0;
-        }
-    }
-
-    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width:220px) {
-        .row > .column {
-            padding: 5px;
-        }
-
-        .column {
-            float: left;
-            width: 95%;
-        }
-
-        /* Clear floats after rows */
-        .row:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        .content {
-            padding: 5px;
-        }
-       
-        .project-title {
-            font-size: 0.4rem;
-            padding: 12px 0;
-        }
-    }
-
-/* image grid uses no media queries
+         
+/* image grid uses no media queries */
 .projects-grid { 
   display: grid; 
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -197,18 +125,20 @@ ul {
   max-width: 860px;
   margin: 0 auto;
   margin-bottom: 4rem; 
-} */
+} 
 
 @media (max-width: 26em) {
    projects-section {
     padding: 5rem 1rem;
   }
-  
-
- /* .projects-grid {
+  .project-title {
+     font-size: 0.5rem;
+     padding: 12px 0;
+  }
+  .projects-grid {
     grid-template-columns: 1fr;
 
-  }*/
+  }
 }
 
 .project {
