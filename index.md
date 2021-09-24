@@ -22,7 +22,7 @@ After many years spent working remotely in the medical transcription field, my e
 
 <section id="projects" class="projects-section">
   <h2 class="projects-section-header">View some of my work</h2>
-<div class="row" " style="margin: 0; padding-left:5px; padding-right:5px;">
+<div class="row" style="margin: 0; padding-left:5px; padding-right:5px;">
 <div class="column">
  <div class="content">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
