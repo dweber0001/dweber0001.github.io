@@ -24,7 +24,7 @@ After many years spent working remotely in the medical transcription field, my e
   <h2 class="projects-section-header">View some of my work</h2>
 <div class="projects-grid">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
-<img class="project-image" src="/images/homepg.png" alt="project"/>
+<img class="project-image" src="/images/homepage.png" alt="project"/>
     <p class="project project-title">
     <span class="code">Doctors Office Site</span>
     </p>
