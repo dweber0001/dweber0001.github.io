@@ -103,7 +103,9 @@ ul {
   border: 2px solid #379cc7;
   border-radius: 4%;
 }
-
+.project-tile{
+   padding-bottom: 2rem;
+}
 @media (max-width: 29em) {
   .projects-section-header {
      max-width: 320px;
@@ -127,7 +129,7 @@ ul {
   margin-bottom: 4rem; 
 } 
 
-@media (max-width: 36em) {
+@media (max-width: 38em) {
    projects-section {
     padding: 5rem 1rem;
   }
@@ -148,8 +150,6 @@ ul {
   margin-top: -10px;
   margin-left: 0;
   margin-right: 0;
-  margin-bottom: 2rem;
-  
 }
 
 .code {
