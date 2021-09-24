@@ -104,14 +104,14 @@ ul {
   border-radius: 4%;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 36em) {
   .projects-section-header {
      max-width: 320px;
      font-size: 1.4rem;
   } 
   .projects-grid {
      grid-template-columns: 1fr;
-     width:100%;
+     width:99%;
   }
    
   .project-title {
