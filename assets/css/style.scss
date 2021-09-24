@@ -110,8 +110,74 @@ ul {
     font-size: 1.6rem;
   }
 }
+  .row > .column {
+        padding: 5px;
+    }
 
-/* image grid uses no media queries */
+    .column {
+        float: left;
+        width: 33.33%;
+    }
+
+    /* Clear floats after rows */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .content {
+        padding: 5px;
+    }
+
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 500px) {
+
+        .row > .column {
+            padding: 5px;
+        }
+
+        .column {
+            float: right;
+            width: 49.99%;
+        }
+        /* Clear floats after rows */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .content {
+            padding: 5px;
+        }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width:299px) {
+        .row > .column {
+            padding: 5px;
+        }
+
+        .column {
+            float: left;
+            width: 94%;
+        }
+
+        /* Clear floats after rows */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .content {
+            padding: 5px;
+        }
+    }
+
+/* image grid uses no media queries
 .projects-grid { 
   display: grid; 
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -121,17 +187,17 @@ ul {
   max-width: 860px;
   margin: 0 auto;
   margin-bottom: 4rem; 
-}
+} */
 
 @media (max-width: 26em) {
    projects-section {
     padding: 5rem 1.5rem;
   }
 
-  .projects-grid {
+ /* .projects-grid {
     grid-template-columns: 1fr;
 
-  }
+  }*/
 }
 
 .project {
