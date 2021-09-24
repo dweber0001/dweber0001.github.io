@@ -108,11 +108,7 @@ ul {
   .projects-section-header {
     max-width: 320px;
     font-size: 1.6rem;
-  }
-   .project-title {
-  font-size: 0.7rem;
-  padding: 12px 0;
-  }
+  } 
 }
   .row > .column {
         padding: 5px;
@@ -156,6 +152,11 @@ ul {
         .content {
             padding: 5px;
         }
+       
+       .project-title {
+            font-size: 0.7rem;
+            padding: 12px 0;
+        }
     }
 
     /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -179,6 +180,11 @@ ul {
         .content {
             padding: 5px;
         }
+       
+        .project-title {
+            font-size: 0.5rem;
+            padding: 12px 0;
+        }
     }
 
 /* image grid uses no media queries
@@ -197,10 +203,7 @@ ul {
    projects-section {
     padding: 5rem 1rem;
   }
-  .project-title {
-  font-size: 0.5rem;
-  padding: 12px 0;
-  }
+  
 
  /* .projects-grid {
     grid-template-columns: 1fr;
