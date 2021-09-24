@@ -162,7 +162,7 @@ ul {
 
         .column {
             float: left;
-            width: 97%;
+            width: 95%;
         }
 
         /* Clear floats after rows */
@@ -202,8 +202,8 @@ ul {
 
 .project {
   background: rgba(103, 122, 131, 0.8); 
-  margin-top: -9px;
-   width: 97%;
+  margin-top: -10px;
+   width: 98%;
 }
 
 .code {
@@ -216,8 +216,6 @@ ul {
 }
 
 .project-image { 
-  height: calc(100% - 2rem);
-  width: 100%;
   object-fit: fill;  
 } 
 
