@@ -104,7 +104,7 @@ ul {
   border-radius: 4%;
 }
 
-@media (max-width: 29em) {
+/*@media (max-width: 29em) {
   .projects-section-header {
      max-width: 320px;
      font-size: 1.4rem;
@@ -119,8 +119,8 @@ ul {
      padding: 10px 0;
   }
 }
-
-@media (max-width: 38em) {
+*/
+@media (max-width: 39em) {
   .projects-section-header {
      max-width: 320px;
      font-size: 1.4rem;
@@ -132,7 +132,7 @@ ul {
    
   .project-title {
      font-size: 0.6rem;
-     padding: 11px 0;
+     padding: 8px 0;
   }
 }
 .project-tile {
@@ -163,7 +163,7 @@ ul {
    
   .project-title {
      font-size: 0.9rem;
-     padding: 12px 0;
+     padding: 10px 0;
   }
 }
 
