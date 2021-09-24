@@ -53,7 +53,8 @@ After many years spent working remotely in the medical transcription field, my e
    </a>
   </div>
  </div>
-</div>    
+</div>  
+  
   <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">View More ></a>
 </section>
 
