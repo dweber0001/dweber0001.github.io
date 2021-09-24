@@ -127,13 +127,14 @@ ul {
   margin-bottom: 3rem; 
 } 
 
-@media (max-width: 30em) {
+@media (max-width: 27em) {
    projects-section {
     padding: 5rem 1rem;
   }
 
   .projects-grid {
     grid-template-columns: 1fr;
+    width:80%;
   }
    
   .project-title {
