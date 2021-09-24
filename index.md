@@ -27,7 +27,7 @@ After many years spent working remotely in the medical transcription field, my e
  <div class="content">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
 <img class="project-image" src="/images/homepage.png" alt="project" style="width:97%;"/>
-    <p class="project project-title">
+    <p class="project project-title" style="width:97%;">
     <span class="code">Doctors Office Site</span>
     </p>
   </a>
@@ -37,7 +37,7 @@ After many years spent working remotely in the medical transcription field, my e
    <div class="content">
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
     <img class="project-image" src="/images/miniblogApp.png" alt="project" style="width:97%;"/>
-    <p class="project project-title">
+    <p class="project project-title" style="width:97%;">
       <span class="code">Mini Blog App</span>
     </p>
     </a>
@@ -47,7 +47,7 @@ After many years spent working remotely in the medical transcription field, my e
   <div class="content">
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
 <img class="project-image" src="/images/JSMatchingGame.png" alt="project" style="width:97%;"/>
- <p class="project project-title">
+ <p class="project project-title" style="width:97%;">
       <span class="code">JS Matching Game</span>
     </p>  
    </a>
