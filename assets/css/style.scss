@@ -111,7 +111,7 @@ ul {
   } 
   .projects-grid {
      grid-template-columns: 1fr;
-     width:95%;
+     width:98%;
   }
    
   .project-title {
@@ -120,7 +120,7 @@ ul {
   }
 }
 .project-tile {
-   margin-bottom: 2rem;
+   margin-bottom: 1.5rem;
 }
          
 /* image grid uses no media queries */
@@ -142,7 +142,7 @@ ul {
 
   .projects-grid {
     grid-template-columns: 1fr;
-    width:78%;
+    width:75%;
   }
    
   .project-title {
