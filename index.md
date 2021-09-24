@@ -22,38 +22,26 @@ After many years spent working remotely in the medical transcription field, my e
 
 <section id="projects" class="projects-section">
   <h2 class="projects-section-header">View some of my work</h2>
-<div class="row" style="margin: 0; padding-left:5px; padding-right:5px;">
-<div class="column">
- <div class="content">
+  <div class="projects-grid">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
 <img class="project-image" src="/images/homepage.png" alt="project" style="width:98%;"/>
     <p class="project project-title">
     <span class="code">Doctors Office Site</span>
     </p>
   </a>
- </div>
-</div>
-  <div class="column">
-   <div class="content">
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
  <img class="project-image" src="/images/miniblogApp.png" alt="project" style="width:98%;"/>
     <p class="project project-title">
       <span class="code">Mini Blog App</span>
     </p>
     </a>
-   </div>
- </div>
-<div class="column">
-  <div class="content">
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
 <img class="project-image" src="/images/JSMatchingGame.png" alt="project" style="width:98%;"/>
  <p class="project project-title">
       <span class="code">JS Matching Game</span>
     </p>  
    </a>
-  </div>
- </div>
-</div>  
+ </div>  
   
   <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">View More ></a>
 </section>
