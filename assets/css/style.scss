@@ -153,7 +153,7 @@ ul {
   margin-bottom: 2rem; 
 } 
 
-@media (max-width: 43em) {
+@media (max-width: 42em) {
    projects-section {
     padding: 2rem 1.5rem;
   }
@@ -164,7 +164,7 @@ ul {
   } 
   .projects-grid {
     grid-template-columns: 1fr;
-    width: auto;
+    width: 250px;
   }
    
   .project-title {
