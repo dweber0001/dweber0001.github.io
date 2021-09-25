@@ -163,8 +163,8 @@ ul {
      margin: 0 auto 2rem auto;
   } 
   .projects-grid {
-    grid-template-columns: minmax(200px, 1fr);
-    width: 85%;
+    grid-template-columns: 1fr;
+    width: auto;
   }
    
   .project-title {
