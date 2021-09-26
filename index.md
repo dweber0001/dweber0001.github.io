@@ -1,6 +1,5 @@
 
-# Hello!  
-My name is **Denise Weber** and I'm happy you're here! 
+# Hello!  My name is **Denise Weber** and I'm happy you're here! 
 <p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="100" height="100" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
 
 ## About Me
