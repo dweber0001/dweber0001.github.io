@@ -5,20 +5,12 @@ My name is **Denise Weber** and I'm happy you're here!
 
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunrises/sunsets!** <br><br>
-<span style="color:#fafa23; text-shadow: 1.5px 1.5px 3px #000076; font-weight: 600; font-size: 20px; margin-left: 10px; margin-right: 10px; margin-bottom: 15px;">My animated background was created to simulate a sunrise and sunset</span>&nbsp;🙂 
+<span style="color:#ffbf00; text-shadow: 1.5px 1.5px 3.5px #000076; font-weight: 600; font-size: 20px; margin-left: 15px; margin-right: 15px; margin-bottom: 15px;">My animated background was created to simulate a sunrise and sunset</span>&nbsp;🙂 
 
 <p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="360" height="230" style="border-radius:50%; box-shadow: 5px 8px 14px #08457e; margin-bottom: 20px; margin-right: 20px; float: left;"/> 
 After working many years remotely in the field of medical records, my entire auditing team was laid off in November 2018 due to our work being sent offshore. As a displaced worker I had the opportunity to participate in the Federal TAA program and receive training for new skills. I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired skills, and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through Udemy, freeCodeCamp, and other online sources.</p>
 
 ## My Work
-**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
-
-**[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
-
-**[DoctorsOfficeWebsite](http://yourdoctorsoffice2021.azurewebsites.net){:target="_blank"}&nbsp; <**  _Link to mock responsive doctor's office website I created using .NET framework and Web Forms. Also accompanying SQL doctor's office database on GitHub._  <br>
-**[MiniBlogApp](http://dweber-microblog-app.herokuapp.com){:target="_blank"}&nbsp; <** _Link to MiniBlogApp. Utilizes Python, Jinja2, Flask, MongoDB and Heroku. My MiniBlogApp is based on Jose Salvatierra's Web Developer Bootcamp with Flask and Python course. This course was a great enhancement to my learning after graduation as I wanted to learn about deployment and Python. I made some changes to make it a little more my own._ br
-
-**[MatchingGame](https://deniseweberdev.com/matchGame/){:target="_blank"}&nbsp; <** _Link to matching game I created with JavaScript, HTML and CSS_ <br>
 
 <section id="projects" class="projects-section">
   <h2 class="projects-section-header">View some of my work</h2>
@@ -56,7 +48,9 @@ After working many years remotely in the field of medical records, my entire aud
 
 **<a href="tel:330-212-1204">Phone</a> &nbsp; < _Click to Call me_**
 
+**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
 
+**[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
 
 
 ### I look forward to hearing from you! 
