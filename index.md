@@ -5,9 +5,9 @@ My name is **Denise Weber** and I'm happy you're here!
 
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunrises/sunsets!** <br><br>
-<span style="color:#f0e130; text-shadow: 1px 1px 2px black, 0 0 30px #a81c07, 0 0 6px #5d0f04; font-weight: 400; font-size: 23px; text-align: center;">My animated background is designed to simulate a sunrise and sunset!</span> 
+<span style="color:#f5ec79; text-shadow: 1px 1px 2px black, 0 0 30px #b51379, 0 0 6px #5d0f04; font-weight: 400; font-size: 23px; align: center;">My animated background is designed to simulate a sunrise and sunset!</span> 
 
-<p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="340" height="230" style="border-radius:10%; margin-right: 20px; float: left;"/> 
+<p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="340" height="230" style="border-radius:50%; border-shadow: 1px 1px 2px black, 0 0 20px #0892d0, 0 0 5px dark blue; margin-right: 20px; float: left;"/> 
 After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in 11/2018 due to our work being sent offshore. As part of the Federal TAA program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired development skills; and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through online sources including Udemy, freeCodeCamp, and others.</p>
 
 ## My Work
