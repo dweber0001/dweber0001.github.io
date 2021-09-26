@@ -1,13 +1,13 @@
 
 # Hello!  
 i am **Denise Weber** and I'm happy you're here! 
-<p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="95" height="95" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
+<p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="100" height="100" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
 
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunrises/sunsets!** <br><br>
-<span style="color:#ffbf00; text-shadow: 1.5px 1.5px 4px #000076; font-weight: 600; font-size: 21px; margin-left: 15px; margin-right: 15px; margin-bottom: 15px;">My animated background was created to simulate a sunrise and sunset</span>&nbsp;🙂 
+<span style="color:#ffbf00; text-shadow: 1px 1.5px 4px #000076; font-weight: 600; font-size: 20px; margin-left: 15px; margin-right: 15px; margin-bottom: 15px;">My animated background was created to simulate a sunrise and sunset</span>&nbsp;🙂 
 
-<p style="margin-right: 20px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="360" height="230" style="border-radius:50%; box-shadow: 5px 8px 14px #08457e; margin-bottom: 20px; margin-right: 20px; float: left;"/> 
+<p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="350" height="230" style="border-radius:50%; box-shadow: 5px 8px 14px #08457e; margin-bottom: 20px; margin-right: 20px; float: left;"/> 
 After working many years remotely in the field of medical records, my entire auditing team was laid off in November 2018 due to our work being sent offshore. As a displaced worker I had the opportunity to participate in the Federal TAA program and receive training for new skills. I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired skills, and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through Udemy, freeCodeCamp, and other online sources.</p>
 
 ## My Work
