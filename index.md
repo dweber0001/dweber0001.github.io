@@ -5,7 +5,7 @@ My name is **Denise Weber** and I'm happy you're here!
 
 ## About Me
 I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view links to some of my work. My other interests are design, travel, photography, my faith, family, friends **...and sunrises/sunsets!** <br><br>
-<span style="color:#fafa23; text-shadow: 2px 2px 5px #000076; font-weight: 600; font-size: 22px; margin-left: 10px; margin-right: 10px; margin-bottom: 15px;">My animated background is designed to simulate a sunrise and sunset 🙂</span> 
+<span style="color:#fafa23; text-shadow: 1.5px 1.5px 4px #000076; font-weight: 600; font-size: 22px; margin-left: 10px; margin-right: 10px; margin-bottom: 15px;">My animated background is designed to simulate a sunrise and sunset</span>&nbsp;🙂 
 
 <p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="340" height="230" style="border-radius:50%; box-shadow: 5px 8px 14px #08457e; margin-bottom: 20px; margin-right: 20px; float: left;"/> 
 After many years spent working remotely in the medical transcription field, my entire auditing team was laid off in 11/2018 due to our work being sent offshore. As part of the Federal TAA program, as a displaced worker, I had the opportunity to attend training for new skills and I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired development skills; and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through online sources including Udemy, freeCodeCamp, and others.</p>
