@@ -28,6 +28,12 @@ After working many years remotely in the field of medical records, my entire aud
       <span class="code">Mini Blog App</span>
     </p>
     </a>
+    <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
+    <img class="project-image" src="/images/Quizzer.png" alt="project"/>
+     <p class="project project-title">
+      <span class="code">JS Quizzer</span>
+    </p>   
+    </a>   
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
 <img class="project-image" src="/images/JSMatchingGame.png" alt="project"/>
  <p class="project project-title">
