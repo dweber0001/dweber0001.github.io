@@ -11,7 +11,7 @@ I am passionate about learning, technology, collaboration and taking on challeng
 After working many years remotely in the field of medical records, my entire auditing team was laid off in November 2018 due to our work being sent offshore. As a displaced worker I had the opportunity to participate in the Federal TAA program and receive training for new skills. I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired skills, and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through Udemy, freeCodeCamp, and other online sources.</p>
 <br><br>
 
-
+## My Work
 <section id="projects" class="projects-section">
  <br>
   <h2 class="projects-section-header">View some of my work</h2>
