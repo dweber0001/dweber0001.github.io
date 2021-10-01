@@ -88,7 +88,7 @@ ul {
 
 .projects-section {
   text-align: center;
-  padding: 3rem 1.5rem;
+  padding: 2rem 2rem;
   background: rgba(137, 162, 176, 0.3);
 }
 
@@ -150,7 +150,7 @@ ul {
   width:100%;
   max-width: 860px;
   margin: 0 auto;
-  margin-bottom: 2rem; 
+  margin-bottom: 1.6rem; 
 } 
 
 @media (max-width: 42em) {
@@ -165,7 +165,7 @@ ul {
   .projects-grid {
     grid-template-columns: 1fr;
     width: 92%;
-    margin-bottom: 2rem;
+    margin-bottom: 1.6rem;
     max-width: 350px;
   }
    
