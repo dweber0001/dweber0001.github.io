@@ -1,0 +1,82 @@
+html {
+    background: #fafafa;
+} 
+
+body {
+    text-align: center;
+    background: #72a7a199;
+    max-width: 780px;
+    display: block;
+    place-items: center;
+    margin: 40px auto;
+    padding: 5px;
+    font-family: arial, sans-serif;
+    max-height: 580px;
+    border-radius: 10px;
+}
+
+/* (A) WRAPPER */
+#quizWrap {
+    max-width: 680px;
+    margin: 40px auto 35px auto;
+    height: 550px; 
+    
+  }
+  
+  /* (B) QUESTION */
+  #quizQn {
+    padding: 25px;
+    background: #1b8d67;
+    color: #fff;
+    font-size: 24px;    
+    font-weight:500;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  /* (C) ANSWERS */
+  #quizAns {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 18px;
+  }
+  #quizAns input[type=radio] { display: none; }
+  #quizAns label {
+    margin-top: 12px;
+    background: #fafafa;
+    border: 2px solid #359c7a;
+    border-radius: 10px;
+    padding: 15px 5px;
+    font-size: 23px;
+    cursor: pointer;
+    text-align: center;
+  }
+  #quizAns label.correct {
+    background: #b5e99b;
+    border: 1px solid #60a03f;
+  }
+  #quizAns label.wrong {
+    background: #e98e8e;
+    border: 1px solid #c27575;
+  }
+
+input[type=button] {
+    
+    text-align: center;
+    width: 220px;    
+    margin: 60px 50%; 
+    color:#08233e;
+    font-size: 30px;
+    font-family: Verdana, sans-serif, Arial;
+    padding: 10px 5px;
+    border-radius: 10px;   
+    background-color:rgb(255, 51, 0);
+    border:1px solid #ff4800;
+    cursor:pointer;
+}
+
+input[type=button]:hover {
+    background-color:rgba(255, 174, 0, 0.918);
+}
+
