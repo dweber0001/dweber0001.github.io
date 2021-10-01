@@ -29,7 +29,7 @@ After working many years remotely in the field of medical records, my entire aud
     </p>
     </a>
     <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
-    <img class="project-image" src="/images/Quizzer.png" alt="project"/>
+    <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
      <p class="project project-title">
       <span class="code">JS Quizzer</span>
     </p>   
