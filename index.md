@@ -35,7 +35,7 @@ After working many years remotely in the field of medical records, my entire aud
     </p>   
     </a>   
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
-<img class="project-image" src="/images/JSMatchingGame.png" alt="project"/>
+<img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
  <p class="project project-title">
       <span class="code">JS Matching Game</span>
     </p>  
