@@ -1,70 +1,56 @@
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <style>
-        #div1 {
-          font-size:24px;
-        }
-        </style>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Picture Matching Game</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/jpg" href="img/hello.jpg">
-    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"/>
-    <style>
-        .button {
-          padding: 15px 15px;
-          font-size: 20px;
-          font-weight:bold;
-          text-align: center;
-          cursor: pointer;
-          outline: none;
-          color: rgb(61, 65, 71);
-          background-color: #81afb3;
-          border: none;
-          border-radius: 12px;
-          box-shadow: 0 7px rgb(136, 135, 135);
-        }
-        
-        .button:hover {background-color: #12b0c5}
-        
-        .button:active {
-          background-color: #3f98b3;
-          box-shadow: 0 5px #666;
-          transform: translateY(4px);
-        }
-        </style>
-
+    <!-- font-awesome -->
+    <script src="https://use.fontawesome.com/0856ab4841.js"></script>
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <link href="style.css" type="text/css" rel="stylesheet"/>
+    <title>MatchGame</title>
 </head>
 <body>
-  <div id=top><br>
-    <h1>Picture Matching Game</h1>  
-   <h2>Your Time: <span id="minutes"></span>:<span id="seconds"></span></h2>
-  <br></div> 
-
-  
-         <script>
-            function refreshPage(){
-                window.location.reload();
-            } 
-            </script>
+    <div class="container">
+        <header class="header">
+            <h1>Matching Pictures Game</h1>
+            <p style="color: #fcfcfc;text-shadow: 1px 1px 2px darkblue;;;">Click cards - find the matches!</p>
+        </header>
         
-        <div id="game"></div>
-        <br>
-        <div class='console-container'><span id='text'></span>
-            <div class='console-underscore' id='console'></div>
-        </div>
-        
-        <button class="button" type="submit"  onClick="refreshPage()">Play Again?</button>
+	<section class="score-panel">
+		<h3 style="color: #003cd3;">Your Score</h3> 
+        <p><ul id="star-rating" class="star-rating">
+			<li class="star"><i class="fa fa-star"></i></li>
+			<li class="star"><i class="fa fa-star"></i></li>
+			<li class="star"><i class="fa fa-star"></i></li>
+       <span class="moves-counter">0</span><span style="font-size: 1.3em;">Moves</span> 
+        <class="timer-container">&nbsp;
+			<span class="timer">Timer: 00:00</span>
+		</ul></p>
+		
+		<div class="reset">
+			<button class="btn reset-btn">Start Over</button>
+		</div>
+	</section>
+    <!-- Modal -->
+	<section class="win-game-modal">
+		<div id="modal" class="modal">
+		
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<h2 style="color:#c20000; font-weight: bold; font-style:italic; font-stretch: expanded;">Congratulations!</h2>
+				<p>You matched all the pictures!</p>
+				<img class="modal-img" src="images/wow.png" alt="WOW image">
+				<button class="btn play-again-btn">Play Again?</button>
+			</div>
+		</div>
+	</section>
+    <ul class="deck"></ul>
+</div>    
 
-     <script src="scripts/script.babel.js"></script>
+<script src="script.js"></script>
 
-     
 </body>
 </html>
-
