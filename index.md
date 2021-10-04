@@ -28,18 +28,18 @@ After working many years remotely in the field of medical records, my entire aud
       <span class="code">Mini Blog App</span>
     </p>
     </a>
-    <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
-    <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
-     <p class="project project-title">
-      <span class="code">JS Quizzer</span>
-    </p>   
-    </a>   
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
 <img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
  <p class="project project-title">
       <span class="code">JS Matching Game</span>
     </p>  
    </a>
+       <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
+    <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
+     <p class="project project-title">
+      <span class="code">JS Quizzer</span>
+    </p>   
+    </a>   
  </div>  
   
   <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">View More ></a>
