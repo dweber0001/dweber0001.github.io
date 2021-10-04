@@ -148,7 +148,7 @@ ul {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-template-rows: repeat(2, 400px);
   grid-gap: 2rem;
-  width:95%;
+  width:100%;
   max-width: 860px;
   margin: 0 auto; 
 } 
@@ -194,7 +194,7 @@ ul {
 
 .project-image { 
   height: calc(100% - 2rem);
-  width: 100%;
+  width: 97%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
 } 
