@@ -180,7 +180,6 @@ ul {
   margin-top: -10px;
   margin-left: 0;
   margin-right: 0;
-   width: 97%;
   border-radius: 0 0 10px 10px;
 }
 
@@ -195,7 +194,7 @@ ul {
 
 .project-image { 
   height: calc(100% - 2rem);
-  width: 97%;
+  width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
 } 
@@ -211,7 +210,8 @@ ul {
   align-items: center;
   text-align: center;
   padding: 1.2rem 0.8rem;
-   margin: 1.5rem 0;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
 
 }
 
