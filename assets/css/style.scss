@@ -193,7 +193,8 @@ ul {
 }
 
 .project-image { 
-  height: calc(100% - 2rem);
+  height: 400px; 
+     /*calc(100% - 2rem);*/
   width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
