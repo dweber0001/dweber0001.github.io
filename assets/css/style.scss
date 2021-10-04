@@ -168,6 +168,10 @@ ul {
     margin-bottom: 1.5rem;
     max-width: 350px;
   }
+   .project-image { 
+  height: calc(100% - 2.5rem);
+  width: 100%; 
+} 
    
   .project-title {
      font-size: 0.8rem;
@@ -193,7 +197,7 @@ ul {
 }
 
 .project-image { 
-  height: calc(100% - 4rem);
+  height: calc(100% - 2rem);
   width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
@@ -210,7 +214,7 @@ ul {
   align-items: center;
   text-align: center;
   padding: 1.2rem 0.8rem;
-  margin-top: 2.5rem;
+  margin-top: 2rem;
   margin-bottom: 1.5rem;
 
 }
