@@ -139,7 +139,7 @@ ul {
 }  */
 
 .project-tile {
-   margin-bottom: 2rem;
+   margin-bottom: 0.8rem;
 }
          
 /* image grid */
@@ -165,7 +165,7 @@ ul {
   .projects-grid {
     grid-template-columns: 1fr;
     width: 92%;
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
     max-width: 350px;
   }
    
@@ -193,8 +193,7 @@ ul {
 }
 
 .project-image { 
-  height: 380px; 
-     /*calc(100% - 2rem);*/
+  height: calc(100% - 4rem);
   width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
@@ -211,7 +210,7 @@ ul {
   align-items: center;
   text-align: center;
   padding: 1.2rem 0.8rem;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 
 }
