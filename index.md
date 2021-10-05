@@ -1,14 +1,14 @@
 
 # Hello!  
-I am **Denise Weber** and I'm happy you're here!
+My name is **Denise Weber** and I'm happy you're here!
 
-<p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="100" height="100" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow short-term or long-term. I live and work remotely near Akron, Ohio.</p> 
+<p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="100" height="100" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow in this field. I live and work remotely near Akron, Ohio.</p> 
 
 ## About Me
-I am passionate about learning, technology, collaboration and taking on challenges. Please look around and view some of my work. Other interests are design, travel, photography, my faith, family, friends and **...*sunsets !*{: style="color: red; font-size: 18px;"}** <br><br>
+I'm passionate about learning, technology, collaboration and taking on challenges. Please look around and view some of my work. Other interests are design, travel, photography, my faith, family, friends and **... *sunsets !*{: style="color: red; font-size: 18px;"}** <br><br>
 
 <p style="margin-right: 10px; float: right;"><img src="images/sunset.png" alt="sunset picture" width="350" height="230" style="border-radius:50%; box-shadow: 5px 8px 14px #08457e; margin-bottom: 20px; margin-right: 20px; float: left;"/> 
-After working many years remotely in the field of medical records, my entire auditing team was laid off in November 2018 due to our work being sent offshore. As a displaced worker I had the opportunity to participate in the Federal TAA program and receive training for new skills. I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my acquired skills, and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through Udemy, freeCodeCamp, and other online sources.</p>
+After working many years remotely in the medical records field, my entire auditing team was laid off in November 2018 due to our work being sent offshore. As a displaced worker, I had the opportunity to receive training for new job skills through the Federal TAA program. I wholeheartedly pursued an associate degree in Software Development, which had been a long-time desire of mine. I am currently looking for opportunities to combine my previous work experience with my training, and to continue learning and growing in this field. Since graduating I have continued to further my knowledge through Udemy, freeCodeCamp, and other online sources.</p>
 <br><br>
 
 ## My Work
