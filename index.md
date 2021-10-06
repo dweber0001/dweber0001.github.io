@@ -23,7 +23,7 @@ After working many years remotely in the medical records field, my entire auditi
     </p>
   </a>
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
- <img class="project-image" src="/images/miniblogApp.png" alt="project" />
+ <img class="project-image" src="/images/BlogApp.PNG" alt="project" />
     <p class="project project-title">
       <span class="code">Mini Blog App</span>
     </p>
