@@ -145,7 +145,7 @@ ul {
 /* image grid */
 .projects-grid { 
   display: grid; 
-  grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
   grid-template-rows: repeat(2, 400px);
   grid-gap: 2rem;
   width:100%;
@@ -194,7 +194,7 @@ ul {
 }
 
 .project:hover .code {
-  color: #c45258;
+  color: #d64048;
 }
 
 .project-image { 
