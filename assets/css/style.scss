@@ -99,9 +99,9 @@ ul {
   font-size: 2rem;
   color: #fcfcfc;
   padding: 15px 2px;
-  background: #3390b8;
-  background: linear-gradient(180deg, #3390b8 0%, #02caba 100%);
-  border: 2px solid #379cc7;
+  background:  #c45258;
+  background: linear-gradient(180deg, #a3383d 0%, #c45258 100%); 
+  border: 2px solid #c45258;
   border-radius: 10px;
 }
 
@@ -223,14 +223,14 @@ ul {
 .btn-show-all {
   font-size: 1.5rem;
   color: #fcfcfc;
-  background:  #3390b8;
-  background: linear-gradient(180deg, #3390b8 0%, #02caba 100%);
+  background:  #c45258;
+  background: linear-gradient(180deg, #a3383d 0%, #c45258 100%);
   border-radius: 10px;
   transition: background 0.3s ease-out;
 }
 
-.btn-show-all:hover {
-  background: #c45258;
+.btn-show-all:hover {f
+  background: #52C4BE;
 }
 
 footer {
