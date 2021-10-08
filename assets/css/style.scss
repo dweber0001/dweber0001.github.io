@@ -139,7 +139,7 @@ ul {
 }  */
 
 .project-tile {
-   margin-bottom: 6rem;
+   margin-bottom: 4rem;
 }
          
 /* image grid */
@@ -168,7 +168,7 @@ ul {
     max-width: 350px;
   }
    .project-image { 
-  height: auto;
+  height: calc(100% - 2rem);
   width: 100%; 
 } 
    
@@ -198,7 +198,7 @@ ul {
 }
 
 .project-image { 
-  height: auto; /* calc(100% - 2rem);*/
+  height: calc(100% - 1rem);
   width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
