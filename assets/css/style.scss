@@ -168,7 +168,7 @@ ul {
     max-width: 350px;
   }
    .project-image { 
-  height: calc(100% - 2rem);
+  height: auto;
   width: 100%; 
 } 
    
@@ -198,7 +198,7 @@ ul {
 }
 
 .project-image { 
-  height: calc(100% - 2rem);
+  height: auto; /* calc(100% - 2rem);*/
   width: 100%;
   object-fit: fill;  
   border-radius: 10px 10px 0 0;
