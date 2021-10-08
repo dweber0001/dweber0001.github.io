@@ -1,6 +1,6 @@
 
 # Hello!  
-My name is **Denise Weber** and I'm happy you're here!
+My name is **Denise Weber** and I am happy you're here!
 
 <p style="margin-right: 20px; float: right;"><img src="/images/me.png" alt="Denise picture" width="100" height="100" style="border-radius:50%; margin-right: 20px; float: left;"/> I have an Associate's Degree in Software Development and a Responsive Web Design Developer Certification from freeCodeCamp. I am constantly learning and growing my skills in development and design. I am looking for opportunities where I can contribute, learn and grow in this field. I live and work remotely near Akron, Ohio.</p> 
 
@@ -51,13 +51,13 @@ After working many years remotely in the medical records field, my entire auditi
 
 
 ## CONTACT ME 
-**[Denise Weber](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}&nbsp;<  _Email me!_**
+**[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}&nbsp;<  _click to send me an email_**
 
-**<a href="tel:330-212-1204">Phone</a> &nbsp; < _Click to Call me_**
+**<a href="tel:330-212-1204">Phone</a> &nbsp; < _click to call me_**
 
-**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; <** _View my Resume_
+**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; < _click to view Resume_**
 
-**[GitHub](http://github.com/dweber0001){:target="_blank"}&nbsp;&nbsp; <** _View my respository_
+**[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}&nbsp; < _click to view Certificate_**
 
 
 ### I look forward to hearing from you! 
