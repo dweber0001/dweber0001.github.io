@@ -17,28 +17,28 @@ After working many years remotely in medical records, my entire team was laid of
   <h2 class="projects-section-header">View some of my work</h2>
   <div class="projects-grid">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">ASP.NET responsive mock doctor's office website</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align:left; margin: 0 15px 8px 15px;">ASP.NET responsive mock doctor's office website</p>
 <img class="project-image" src="/images/homepage.png" alt="project"/>
    <p class="project project-title">
     <span class="code">Doctors Office Site</span>
     </p>
   </a>
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">Python/MongoDB/Heroku-based on Udemy course</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: left; margin: 0 15px 8px 15px;">Python/MongoDB/Heroku-based on Udemy course</p>
  <img class="project-image" src="/images/BlogApp.PNG" alt="project" />
     <p class="project project-title">
       <span class="code">Mini Chat App</span>
     </p>
     </a>
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive game w/ modal stats</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: left; margin: 0 15px 8px 15px;">JavaScript responsive game w/ modal stats</p>
 <img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
  <p class="project project-title">
       <span class="code">Picture Match Game</span>
     </p>  
    </a>
        <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
-        <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive quiz displays correct/10</p>
+        <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: left; margin: 0 15px 8px 15px;">JavaScript responsive quiz shows #correct/10</p>
     <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
      <p class="project project-title">
       <span class="code">Quizzer</span>
