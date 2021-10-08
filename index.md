@@ -24,14 +24,14 @@ After working many years remotely in medical records, my entire team was laid of
     </p>
   </a>
   <a href="http://dweber-microblog-app.herokuapp.com/" target="_blank" class="project-tile">
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 20px 8px 20px;">Python app uses MongoDB and Heroku-modified from Udemy course</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 20px 8px 20px;">Python app uses MongoDB/Heroku-mod of Udemy course</p>
  <img class="project-image" src="/images/BlogApp.PNG" alt="project" />
     <p class="project project-title">
       <span class="code">Mini Chat App</span>
     </p>
     </a>
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 20px 8px 20px;">JavaScript responsive matching game displays modal final stats/time</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 20px 8px 20px;">JavaScript responsive game displays modal stats/time</p>
 <img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
  <p class="project project-title">
       <span class="code">Picture Matching Game</span>
