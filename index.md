@@ -31,14 +31,14 @@ After working many years remotely in medical records, my entire team was laid of
     </p>
     </a>
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
-   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive game displays modal stats/time</p>
+   <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive game w/ modal stats</p>
 <img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
  <p class="project project-title">
       <span class="code">Picture Match Game</span>
     </p>  
    </a>
        <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
-        <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive quiz displays correct/total questions.</p>
+        <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: center; margin: 0 15px 8px 15px;">JavaScript responsive quiz displays correct/10</p>
     <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
      <p class="project project-title">
       <span class="code">Quizzer</span>
