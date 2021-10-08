@@ -46,7 +46,7 @@ After working many years remotely in medical records, my entire team was laid of
     </a>   
  </div>  
   
-  <a href="https://codepen.io/denise_weber" class="btn btn-show-all" target="_blank">View More ></a>
+  <a href="https://codepen.io/denise_weber/full/NWgjOwy" class="btn btn-show-all" target="_blank">View More ></a>
 </section>
 
 
