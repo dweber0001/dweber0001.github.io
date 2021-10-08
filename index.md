@@ -51,13 +51,15 @@ After working many years remotely in the medical records field, my entire auditi
 
 
 ## CONTACT ME 
-**[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}&nbsp;<  _click to send me an email_**
+**Click links below to contact me or view additional information**
 
-**<a href="tel:330-212-1204">Phone</a> &nbsp; < _click to call me_**
+**[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}**
 
-**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}&nbsp; < _click to view Resume_**
+**<a href="tel:330-212-1204">Phone</a> **
 
-**[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}&nbsp; < _click to view Certificate_**
+**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}**
+
+**[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}**
 
 
-### I look forward to hearing from you! 
+### Thank you for visiting, and I look forward to hearing from you! 
