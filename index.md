@@ -17,7 +17,7 @@ After working many years remotely in medical records, my entire team was laid of
   <h2 class="projects-section-header">View some of my work</h2>
   <div class="projects-grid">
   <a href="https://yourdoctorsoffice2021.azurewebsites.net/" target="_blank" class="project-tile">
-   <span style="color: black; font-weight: 400; font-size: 14px; line-height: 90%;">Responsive mock doctor's office website I created using ASP.NET</span>
+   <span style="color: black; font-weight: 400; font-size: 14px; line-height: 80%;">Responsive mock doctor's office website I created using ASP.NET</span>
 <img class="project-image" src="/images/homepage.png" alt="project"/>
    <p class="project project-title">
     <span class="code">Doctors Office Site</span>
