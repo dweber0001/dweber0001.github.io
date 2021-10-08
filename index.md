@@ -55,7 +55,7 @@ After working many years remotely in the medical records field, my entire auditi
 
 **[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}**
 
-**<a href="tel:330-212-1204">My Phone</a> {:target="_blank"}**
+**<a href="tel:3302121204">My Phone</a>**
 
 **[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}**
 
