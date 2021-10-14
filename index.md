@@ -55,7 +55,7 @@ After working many years remotely in medical records, my entire team was laid of
 
 
 ## CONTACT ME 
-***Click links below to contact me or view more information *{: style="color: #800080; font-size: 20px;"}**  
+***Click links below to contact me or view more information :*{: style="color: #800080; font-size: 20px;"}**  
 
 **[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}**
 
