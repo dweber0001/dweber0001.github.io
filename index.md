@@ -61,7 +61,7 @@ After working many years remotely in medical records, my entire team was laid of
 
 **<a href="tel:+3302121204">My Phone</a>**
 
-**[Resume](/images/DeniseWeber Resume.pdf){:target="_blank"}**
+**[Resume](/images/DWeber Resume.pdf){:target="_blank"}**
 
 **[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}**
 
