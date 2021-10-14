@@ -67,5 +67,5 @@ After working many years remotely in medical records, my entire team was laid of
 
 **[Linkedin](https://www.linkedin.com/in/deniseweber0001/){:target="_blank"}**
 
-***Thank you for visiting, and I look forward to hearing from you! !*{: style="color: red; font-size: 22px;"}**
+***Thank you for visiting, and I look forward to hearing from you! *{: style="color: #800080; font-size: 22px;"}**
               
