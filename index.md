@@ -55,7 +55,7 @@ After working many years remotely in medical records, my entire team was laid of
 
 
 ## CONTACT ME 
-**Click links below to contact me or view additional information{: style="color: #800080; font-size: 20px;"}**  
+***Click links below to contact me or view more information *{: style="color: #800080; font-size: 20px;"}**  
 
 **[My Email](mailto:dweber0001@gmail.com?subject=[GitHub]%20Source%20MyPortfolio){:target="_blank"}**
 
@@ -63,9 +63,9 @@ After working many years remotely in medical records, my entire team was laid of
 
 **[Resume](/images/DWeber Resume.pdf){:target="_blank"}**
 
-**[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}**
-
 **[Linkedin](https://www.linkedin.com/in/deniseweber0001/){:target="_blank"}**
+
+**[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}**
 
 ***Thank you for visiting, and I look forward to hearing from you !*{: style="color: #800080; font-size: 22px;"}**
               
