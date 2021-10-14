@@ -67,5 +67,4 @@ After working many years remotely in medical records, my entire team was laid of
 
 **[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/denise_weber/responsive-web-design){:target="_blank"}**
 
-***Thank you for visiting, and I look forward to hearing from you!*{: style="color: #800080; font-size: 22px;"}**
-              
+***Thank you for visiting, and I look forward to hearing from you!*{: style="color: #800080; font-size: 22px;"}**          
