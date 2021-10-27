@@ -32,7 +32,7 @@ After working many years remotely in medical records, my entire team was laid of
     </a>
   <a href="https://deniseweberdev.com/matchGame/" target="_blank" class="project-tile"> 
    <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: left; margin: 0 15px 8px 15px;">JavaScript responsive game w/ modal stats</p>
-<img class="project-image" src="/images/MatchGame.PNG" alt="project"/>
+<img class="project-image" src="/images/MatchGame.png" alt="project"/>
  <p class="project project-title">
       <span class="code">Picture Match Game</span>
     </p>  
