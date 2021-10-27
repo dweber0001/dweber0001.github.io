@@ -39,7 +39,7 @@ After working many years remotely in medical records, my entire team was laid of
    </a>
        <a href="https://deniseweberdev.com/Quizzer/" target="_blank" class="project-tile">
         <p style="color: #535351; font-weight: 400; font-size: 15px; line-height: 1.2; text-align: left; margin: 0 15px 8px 15px;">JavaScript responsive quiz shows #correct/10</p>
-    <img class="project-image" src="/images/Quizzer.PNG" alt="project"/>
+    <img class="project-image" src="/images/QuizzerGame.png" alt="project"/>
      <p class="project project-title">
       <span class="code">Quizzer</span>
     </p>   
