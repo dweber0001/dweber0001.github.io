@@ -73,7 +73,7 @@ input[type=button] {
     font-family: Verdana, sans-serif, Arial;
     padding: 10px 5px;
     border-radius: 10px;   
-    background-color:rgb(3, 191, 240);
+    background-color:  #22d4ee; 
     border:1px solid #ff4800;
     cursor:pointer;
 }
