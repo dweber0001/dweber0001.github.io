@@ -28,8 +28,7 @@ body {
   #quizQn {
     padding: 25px 7px;
     background: #9bde54;
-   background-image: linear-gradient(to bottom, #58d179, #76d569, #93d959, #b0db48, #cddc39);    font-size: 24px;    
-    font-weight:500;
+    background-image: linear-gradient(to bottom, #2bb177, #55be6a, #7bca5b, #a3d44a, #cddc39);    font-weight:500;
     border-radius: 10px;
     text-align: center;
   }
