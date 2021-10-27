@@ -26,10 +26,9 @@ body {
   
   /* (B) QUESTION */
   #quizQn {
-    padding: 25px 5px;
-    background: #92dc54;
-    background-image: linear-gradient(to bottom, #33d988, #65dc73, #8add5e, #acdd4b, #cddc39); 
-    color: #fff;
+    padding: 25px 7px;
+    background: #9bde54;
+    background-image: linear-gradient(to bottom, #65dc73, #81dd63, #9bde54, #b4dd46, #cddc39);   color: #fff;
     font-size: 24px;    
     font-weight:500;
     border-radius: 10px;
