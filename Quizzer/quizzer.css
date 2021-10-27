@@ -64,10 +64,13 @@ body {
   }
 
 input[type=button] {
-    
+     display: block;
     text-align: center;
     width: 220px;    
-    margin: 60px 51%; 
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 60px;
+    position: absolute;
     color:#08233e;
     font-size: 30px;
     font-family: Verdana, sans-serif, Arial;
