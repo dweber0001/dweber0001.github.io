@@ -5,7 +5,7 @@ html {
 body {
     text-align: center;
     background: 42f53a;
-    background: linear-gradient(180deg, rgba(33, 150, 243, 1) 0%, rgba(205, 220, 57, 1) 100%);
+    background-image: linear-gradient(to bottom, #2196f3, #00b7f5, #00cfc5, #3fdc7b, #cddc39);
     max-width: 780px;
     display: block;
     place-items: center;
@@ -27,7 +27,7 @@ body {
   /* (B) QUESTION */
   #quizQn {
     padding: 25px;
-    background: #2196f3;
+    background: #00cfc5;
     color: #fff;
     font-size: 24px;    
     font-weight:500;
