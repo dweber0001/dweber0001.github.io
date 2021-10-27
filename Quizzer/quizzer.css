@@ -4,7 +4,7 @@ html {
 
 body {
     text-align: center;
-    /* global 94%+ browsers support */
+    background: 42f53a;
     background: linear-gradient(180deg, rgba(33, 150, 243, 1) 0%, rgba(205, 220, 57, 1) 100%);
     max-width: 780px;
     display: block;
