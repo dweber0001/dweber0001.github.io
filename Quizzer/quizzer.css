@@ -19,7 +19,7 @@ body {
 /* (A) WRAPPER */
 #quizWrap {
     max-width: 680px;
-    margin: 40px auto 35px auto;
+    margin: 50px auto 35px auto;
     height: 550px; 
     
   }
@@ -27,7 +27,7 @@ body {
   /* (B) QUESTION */
   #quizQn {
     padding: 25px;
-    background: #42f53a;
+    background: #2196f3;
     color: #fff;
     font-size: 24px;    
     font-weight:500;
