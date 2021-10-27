@@ -9,24 +9,24 @@ body {
     max-width: 780px;
     display: block;
     place-items: center;
-    margin: 40px auto;
+    margin: 40px auto 30px auto;
     padding: 5px;
     font-family: arial, sans-serif;
-    max-height: 580px;
+    max-height: 600px;
     border-radius: 10px;
 }
 
 /* (A) WRAPPER */
 #quizWrap {
     max-width: 680px;
-    margin: 50px auto 35px auto;
-    height: 550px; 
+    margin: 50px auto 25px auto;
+    height: 570px; 
     
   }
   
   /* (B) QUESTION */
   #quizQn {
-    padding: 25px;
+    padding: 25px 15px;
     background: #92dc54;
     background-image: linear-gradient(to bottom, #33d988, #65dc73, #8add5e, #acdd4b, #cddc39); 
     color: #fff;
