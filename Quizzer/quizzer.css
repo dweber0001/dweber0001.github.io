@@ -4,13 +4,8 @@ html {
 
 body {
     text-align: center;
- 
-    /* ff 3.6+ */
-    background:-moz-linear-gradient(180deg, rgba(33, 150, 243, 1) 0%, rgba(205, 220, 57, 1) 100%); 
-
     /* global 94%+ browsers support */
-    background:linear-gradient(180deg, rgba(33, 150, 243, 1) 0%, rgba(205, 220, 57, 1) 100%);
- 
+    background: linear-gradient(180deg, rgba(33, 150, 243, 1) 0%, rgba(205, 220, 57, 1) 100%);
     max-width: 780px;
     display: block;
     place-items: center;
