@@ -67,10 +67,11 @@ input[type=button] {
     display: block;
     text-align: center;
     width: 220px;    
-    left: 48%;
-    transform: translateX(-48%);
+    left: 50%;
+    transform: translateX(-50%);
     margin-top: 60px;
     position: absolute;
+    text-indent: 0;
     color:#08233e;
     font-size: 30px;
     font-family: Verdana, sans-serif, Arial;
