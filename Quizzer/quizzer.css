@@ -9,7 +9,7 @@ body {
     max-width: 780px;
     display: block;
     place-items: center;
-    margin: 40px auto 30px auto;
+    margin: 40px auto 20px auto;
     padding: 5px;
     font-family: arial, sans-serif;
     max-height: 600px;
@@ -19,14 +19,14 @@ body {
 /* (A) WRAPPER */
 #quizWrap {
     max-width: 680px;
-    margin: 50px auto 35px auto;
+    margin: 50px auto 25px auto;
     height: 550px; 
     
   }
   
   /* (B) QUESTION */
   #quizQn {
-    padding: 25px 10px;
+    padding: 25px 5px;
     background: #92dc54;
     background-image: linear-gradient(to bottom, #33d988, #65dc73, #8add5e, #acdd4b, #cddc39); 
     color: #fff;
