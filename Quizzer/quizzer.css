@@ -29,6 +29,7 @@ body {
     padding: 25px 7px;
     background: #9bde54;
     background-image: linear-gradient(to bottom, #2bb177, #55be6a, #7bca5b, #a3d44a, #cddc39); 
+    font-size: 30px;
     color: white;
     font-weight: 500;
     border-radius: 10px;
